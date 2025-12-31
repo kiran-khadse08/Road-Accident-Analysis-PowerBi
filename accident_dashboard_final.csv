@@ -1,0 +1,863 @@
+State Name,City Name,Year,Month,Day of Week,Accident Severity,Number of Vehicles Involved,Vehicle Type Involved,Number of Casualties,Number of Fatalities,Weather Conditions,Road Condition,Lighting Conditions,Weekend_Flag,Total Accidents,Accident Category,Fatality Flag,Accident Count
+Uttar Pradesh,Lucknow,2018,January,Wednesday,Minor,5,Truck,5,4,Hazy,Dry,Dusk,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2020,June,Saturday,Minor,3,Bus,10,5,Rainy,Dry,Dark,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2021,July,Saturday,Fatal,3,Truck,7,1,Clear,Damaged,Dawn,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2018,August,Saturday,Fatal,2,Car,3,2,Foggy,Under Construction,Dark,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2018,August,Tuesday,Fatal,3,Bus,1,4,Clear,Wet,Dusk,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2019,October,Sunday,Minor,2,Cycle,7,4,Rainy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Karnataka,Bangalore,2023,October,Thursday,Fatal,5,Car,10,2,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2022,July,Friday,Fatal,1,Two-Wheeler,9,4,Clear,Wet,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2022,December,Tuesday,Serious,3,Cycle,1,3,Foggy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Tamil Nadu,Madurai,2018,August,Tuesday,Fatal,3,Auto-Rickshaw,2,2,Stormy,Wet,Daylight,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Varanasi,2018,May,Sunday,Minor,3,Two-Wheeler,2,1,Hazy,Under Construction,Dusk,Weekend,1,Minor,Yes,1
+Gujarat,Surat,2019,March,Thursday,Fatal,2,Car,7,0,Stormy,Under Construction,Dawn,Weekday,1,Severe,No,1
+Uttar Pradesh,Lucknow,2022,November,Tuesday,Fatal,1,Bus,0,3,Clear,Under Construction,Dark,Weekday,1,No Injury,Yes,1
+Maharashtra,Mumbai,2020,July,Saturday,Serious,5,Bus,6,2,Hazy,Damaged,Dawn,Weekend,1,Severe,Yes,1
+West Bengal,Durgapur,2023,February,Sunday,Serious,3,Cycle,9,5,Hazy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2022,July,Tuesday,Serious,5,Auto-Rickshaw,2,2,Foggy,Damaged,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2020,April,Friday,Minor,2,Auto-Rickshaw,2,5,Clear,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2018,December,Sunday,Serious,5,Cycle,2,5,Rainy,Damaged,Dark,Weekend,1,Minor,Yes,1
+Karnataka,Bangalore,2021,February,Wednesday,Minor,3,Truck,1,5,Rainy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2021,November,Friday,Minor,3,Auto-Rickshaw,4,4,Foggy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2023,May,Sunday,Minor,4,Auto-Rickshaw,9,4,Hazy,Dry,Dusk,Weekend,1,Severe,Yes,1
+Gujarat,Ahmedabad,2019,December,Wednesday,Fatal,4,Two-Wheeler,3,5,Rainy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2018,May,Thursday,Minor,2,Two-Wheeler,6,2,Rainy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2020,October,Thursday,Serious,2,Bus,1,5,Hazy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Siliguri,2022,November,Tuesday,Fatal,5,Cycle,7,4,Rainy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2022,January,Monday,Minor,1,Pedestrian,0,0,Clear,Dry,Dawn,Weekday,1,No Injury,No,1
+Gujarat,Vadodara,2023,March,Wednesday,Fatal,3,Truck,2,3,Foggy,Wet,Dawn,Weekday,1,Minor,Yes,1
+Karnataka,Mysore,2019,October,Monday,Minor,4,Bus,10,2,Stormy,Wet,Dark,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2018,January,Tuesday,Serious,5,Two-Wheeler,1,4,Rainy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Gujarat,Vadodara,2018,August,Thursday,Minor,4,Pedestrian,10,0,Foggy,Dry,Dawn,Weekday,1,Severe,No,1
+Maharashtra,Nagpur,2019,June,Monday,Minor,2,Car,5,5,Hazy,Under Construction,Dawn,Weekday,1,Moderate,Yes,1
+Maharashtra,Nagpur,2023,May,Wednesday,Fatal,4,Two-Wheeler,7,1,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,April,Saturday,Minor,4,Car,5,3,Clear,Damaged,Daylight,Weekend,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2022,August,Sunday,Serious,1,Two-Wheeler,3,3,Rainy,Under Construction,Daylight,Weekend,1,Moderate,Yes,1
+Karnataka,Mysore,2020,December,Tuesday,Fatal,2,Car,9,0,Foggy,Dry,Dusk,Weekday,1,Severe,No,1
+Andhra Pradesh,Tirupati,2019,August,Saturday,Serious,4,Cycle,5,3,Rainy,Wet,Dusk,Weekend,1,Moderate,Yes,1
+Gujarat,Vadodara,2023,August,Wednesday,Serious,4,Pedestrian,5,4,Stormy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Karnataka,Mysore,2022,December,Tuesday,Serious,4,Auto-Rickshaw,9,4,Stormy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2022,June,Sunday,Fatal,3,Bus,8,4,Rainy,Wet,Daylight,Weekend,1,Severe,Yes,1
+Tamil Nadu,Chennai,2019,May,Friday,Minor,3,Bus,10,4,Hazy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2019,April,Monday,Fatal,5,Bus,7,3,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2018,June,Saturday,Serious,1,Bus,0,3,Rainy,Under Construction,Dawn,Weekend,1,No Injury,Yes,1
+Tamil Nadu,Chennai,2023,November,Thursday,Serious,5,Two-Wheeler,10,1,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2020,May,Thursday,Serious,2,Cycle,8,2,Rainy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2019,July,Monday,Fatal,3,Pedestrian,2,2,Clear,Wet,Dark,Weekday,1,Minor,Yes,1
+Karnataka,Mangalore,2023,June,Sunday,Serious,3,Two-Wheeler,5,3,Rainy,Wet,Dark,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2018,January,Friday,Minor,1,Truck,9,1,Hazy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2021,December,Thursday,Minor,4,Bus,5,4,Clear,Under Construction,Dawn,Weekday,1,Moderate,Yes,1
+Karnataka,Bangalore,2020,May,Monday,Fatal,1,Two-Wheeler,6,1,Rainy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2021,June,Saturday,Fatal,5,Car,5,1,Stormy,Under Construction,Dark,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Chennai,2022,April,Saturday,Serious,1,Truck,3,2,Hazy,Under Construction,Dawn,Weekend,1,Moderate,Yes,1
+Delhi,New Delhi,2018,January,Saturday,Serious,3,Pedestrian,9,0,Clear,Damaged,Dusk,Weekend,1,Severe,No,1
+Rajasthan,Udaipur,2018,August,Saturday,Serious,3,Auto-Rickshaw,3,0,Stormy,Dry,Dusk,Weekend,1,Moderate,No,1
+Uttar Pradesh,Lucknow,2023,November,Friday,Minor,1,Car,4,4,Stormy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2023,January,Sunday,Fatal,2,Cycle,9,5,Foggy,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Karnataka,Mangalore,2020,August,Monday,Fatal,5,Cycle,1,1,Rainy,Damaged,Daylight,Weekday,1,Minor,Yes,1
+Delhi,New Delhi,2018,October,Sunday,Minor,5,Bus,6,4,Foggy,Dry,Dusk,Weekend,1,Severe,Yes,1
+Delhi,Rohini,2022,September,Thursday,Minor,2,Two-Wheeler,0,0,Rainy,Damaged,Dusk,Weekday,1,No Injury,No,1
+West Bengal,Siliguri,2018,August,Thursday,Serious,1,Auto-Rickshaw,8,0,Stormy,Under Construction,Daylight,Weekday,1,Severe,No,1
+West Bengal,Durgapur,2021,July,Saturday,Minor,3,Auto-Rickshaw,0,2,Clear,Under Construction,Dark,Weekend,1,No Injury,Yes,1
+Rajasthan,Udaipur,2023,December,Tuesday,Minor,5,Car,6,4,Clear,Wet,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2022,February,Tuesday,Serious,4,Car,6,3,Hazy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2023,October,Tuesday,Serious,3,Pedestrian,6,3,Clear,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2018,May,Tuesday,Minor,4,Pedestrian,9,2,Foggy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2022,June,Wednesday,Fatal,1,Cycle,9,1,Hazy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2018,October,Tuesday,Serious,2,Car,7,0,Stormy,Dry,Dusk,Weekday,1,Severe,No,1
+Karnataka,Mangalore,2019,January,Tuesday,Fatal,3,Cycle,6,2,Hazy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2021,May,Thursday,Minor,2,Two-Wheeler,9,3,Stormy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2021,May,Monday,Serious,3,Two-Wheeler,8,0,Hazy,Damaged,Dark,Weekday,1,Severe,No,1
+Delhi,New Delhi,2021,September,Thursday,Serious,1,Truck,10,0,Stormy,Damaged,Dusk,Weekday,1,Severe,No,1
+Karnataka,Mysore,2023,March,Friday,Serious,3,Two-Wheeler,7,3,Clear,Wet,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2020,April,Sunday,Minor,2,Auto-Rickshaw,10,2,Foggy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2021,April,Tuesday,Serious,2,Bus,2,2,Clear,Damaged,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2020,August,Thursday,Fatal,4,Auto-Rickshaw,8,4,Hazy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2019,March,Wednesday,Serious,1,Auto-Rickshaw,9,3,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2018,May,Friday,Fatal,4,Car,10,2,Foggy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2018,July,Sunday,Serious,5,Two-Wheeler,10,5,Clear,Dry,Daylight,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2022,August,Friday,Minor,3,Two-Wheeler,9,0,Clear,Wet,Daylight,Weekday,1,Severe,No,1
+Karnataka,Bangalore,2022,June,Friday,Fatal,4,Auto-Rickshaw,1,0,Clear,Wet,Dawn,Weekday,1,Minor,No,1
+Tamil Nadu,Madurai,2019,October,Monday,Minor,5,Two-Wheeler,1,5,Clear,Damaged,Daylight,Weekday,1,Minor,Yes,1
+West Bengal,Siliguri,2018,September,Friday,Fatal,4,Truck,5,0,Stormy,Wet,Dusk,Weekday,1,Moderate,No,1
+West Bengal,Siliguri,2020,August,Saturday,Fatal,2,Car,10,4,Foggy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2021,October,Wednesday,Fatal,3,Bus,5,4,Clear,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Mumbai,2022,February,Tuesday,Minor,5,Car,9,1,Hazy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2019,February,Tuesday,Fatal,3,Bus,4,5,Foggy,Dry,Dark,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2022,October,Tuesday,Serious,1,Cycle,5,3,Hazy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2021,May,Sunday,Minor,3,Pedestrian,9,1,Stormy,Dry,Dark,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2023,June,Thursday,Minor,2,Pedestrian,1,3,Clear,Dry,Dark,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2020,December,Saturday,Fatal,2,Cycle,8,4,Stormy,Wet,Dawn,Weekend,1,Severe,Yes,1
+Rajasthan,Udaipur,2021,July,Monday,Minor,5,Two-Wheeler,5,0,Rainy,Damaged,Dark,Weekday,1,Moderate,No,1
+Andhra Pradesh,Tirupati,2020,November,Friday,Fatal,2,Pedestrian,1,1,Stormy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2023,May,Tuesday,Minor,5,Two-Wheeler,0,4,Hazy,Damaged,Dark,Weekday,1,No Injury,Yes,1
+West Bengal,Siliguri,2023,February,Saturday,Fatal,1,Bus,7,4,Hazy,Dry,Daylight,Weekend,1,Severe,Yes,1
+West Bengal,Durgapur,2018,September,Thursday,Serious,5,Truck,3,5,Foggy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2022,March,Sunday,Minor,4,Auto-Rickshaw,8,2,Foggy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2022,December,Thursday,Minor,5,Cycle,5,1,Clear,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+West Bengal,Kolkata,2018,December,Sunday,Fatal,4,Car,2,5,Hazy,Under Construction,Daylight,Weekend,1,Minor,Yes,1
+Maharashtra,Nagpur,2023,December,Sunday,Fatal,2,Cycle,6,2,Clear,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Maharashtra,Nagpur,2022,July,Wednesday,Fatal,5,Pedestrian,10,0,Stormy,Damaged,Daylight,Weekday,1,Severe,No,1
+Karnataka,Mangalore,2019,July,Saturday,Serious,4,Cycle,8,0,Stormy,Dry,Dusk,Weekend,1,Severe,No,1
+Karnataka,Mangalore,2020,June,Friday,Serious,5,Bus,4,1,Hazy,Under Construction,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2020,February,Saturday,Fatal,4,Truck,1,0,Foggy,Damaged,Dusk,Weekend,1,Minor,No,1
+Tamil Nadu,Madurai,2021,May,Friday,Minor,5,Truck,5,4,Rainy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2020,November,Saturday,Serious,4,Two-Wheeler,3,4,Hazy,Damaged,Dusk,Weekend,1,Moderate,Yes,1
+Karnataka,Bangalore,2021,September,Saturday,Minor,4,Auto-Rickshaw,10,3,Clear,Dry,Dark,Weekend,1,Severe,Yes,1
+Maharashtra,Nagpur,2019,April,Wednesday,Fatal,5,Pedestrian,0,4,Rainy,Damaged,Daylight,Weekday,1,No Injury,Yes,1
+Delhi,New Delhi,2018,December,Thursday,Minor,4,Bus,8,3,Hazy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2018,June,Thursday,Minor,2,Auto-Rickshaw,5,3,Rainy,Under Construction,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Mumbai,2022,November,Wednesday,Serious,4,Two-Wheeler,1,0,Hazy,Under Construction,Dark,Weekday,1,Minor,No,1
+Gujarat,Vadodara,2019,January,Thursday,Fatal,2,Truck,4,1,Hazy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2018,November,Sunday,Minor,1,Auto-Rickshaw,8,0,Hazy,Under Construction,Dawn,Weekend,1,Severe,No,1
+Rajasthan,Udaipur,2020,May,Sunday,Serious,3,Car,10,4,Rainy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2020,February,Tuesday,Minor,3,Pedestrian,9,3,Stormy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2018,January,Friday,Fatal,5,Pedestrian,9,5,Foggy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2020,April,Monday,Serious,1,Cycle,10,4,Rainy,Dry,Dark,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2020,October,Tuesday,Fatal,5,Two-Wheeler,7,1,Stormy,Dry,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2021,June,Monday,Fatal,1,Cycle,10,2,Stormy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2021,May,Saturday,Minor,1,Cycle,3,0,Clear,Dry,Daylight,Weekend,1,Moderate,No,1
+Delhi,Dwarka,2021,June,Tuesday,Serious,3,Two-Wheeler,7,5,Hazy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2023,February,Friday,Fatal,5,Cycle,7,5,Hazy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,September,Monday,Fatal,1,Pedestrian,7,5,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2023,June,Saturday,Serious,5,Auto-Rickshaw,0,5,Hazy,Wet,Daylight,Weekend,1,No Injury,Yes,1
+Karnataka,Mysore,2020,September,Thursday,Minor,5,Truck,0,3,Foggy,Dry,Dark,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Vijayawada,2019,November,Wednesday,Serious,4,Cycle,4,3,Foggy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Rajasthan,Udaipur,2020,April,Tuesday,Fatal,1,Two-Wheeler,4,3,Hazy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2022,July,Sunday,Serious,5,Auto-Rickshaw,10,1,Rainy,Dry,Daylight,Weekend,1,Severe,Yes,1
+West Bengal,Kolkata,2018,August,Thursday,Minor,4,Cycle,5,4,Stormy,Under Construction,Dawn,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Visakhapatnam,2019,May,Wednesday,Fatal,2,Truck,9,0,Stormy,Damaged,Daylight,Weekday,1,Severe,No,1
+West Bengal,Siliguri,2020,March,Friday,Fatal,3,Two-Wheeler,10,5,Hazy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2020,February,Tuesday,Serious,1,Cycle,8,1,Rainy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2020,February,Wednesday,Minor,3,Auto-Rickshaw,2,4,Rainy,Damaged,Dawn,Weekday,1,Minor,Yes,1
+Karnataka,Mangalore,2020,December,Thursday,Minor,4,Truck,6,3,Rainy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2021,March,Thursday,Serious,2,Auto-Rickshaw,3,0,Clear,Dry,Daylight,Weekday,1,Moderate,No,1
+Rajasthan,Udaipur,2021,September,Friday,Fatal,5,Two-Wheeler,10,0,Foggy,Dry,Dusk,Weekday,1,Severe,No,1
+Uttar Pradesh,Varanasi,2021,December,Wednesday,Minor,1,Truck,3,4,Rainy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Mumbai,2018,December,Monday,Serious,1,Bus,8,1,Stormy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2022,April,Friday,Fatal,4,Truck,8,5,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2020,April,Tuesday,Serious,2,Pedestrian,0,4,Rainy,Wet,Dark,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Visakhapatnam,2022,April,Saturday,Serious,2,Truck,8,3,Hazy,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Maharashtra,Pune,2019,July,Tuesday,Serious,1,Truck,2,4,Rainy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Surat,2023,January,Monday,Minor,2,Two-Wheeler,10,5,Clear,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2022,March,Thursday,Minor,1,Two-Wheeler,4,1,Stormy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2019,April,Monday,Serious,1,Bus,8,1,Foggy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2021,November,Sunday,Serious,5,Car,0,1,Stormy,Wet,Dawn,Weekend,1,No Injury,Yes,1
+Rajasthan,Udaipur,2022,January,Tuesday,Serious,1,Pedestrian,4,2,Hazy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2021,March,Friday,Fatal,5,Pedestrian,8,1,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2022,September,Tuesday,Minor,5,Truck,7,3,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2019,December,Monday,Fatal,4,Car,5,1,Foggy,Under Construction,Dawn,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2022,February,Monday,Serious,2,Truck,4,1,Foggy,Wet,Dark,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2021,November,Sunday,Fatal,5,Auto-Rickshaw,5,0,Stormy,Damaged,Dawn,Weekend,1,Moderate,No,1
+Gujarat,Surat,2021,May,Tuesday,Serious,1,Bus,0,2,Clear,Damaged,Daylight,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Coimbatore,2018,September,Thursday,Serious,4,Auto-Rickshaw,7,3,Stormy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2022,January,Monday,Fatal,2,Auto-Rickshaw,2,2,Clear,Damaged,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Ahmedabad,2018,September,Thursday,Minor,2,Auto-Rickshaw,4,4,Stormy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2018,April,Sunday,Serious,3,Pedestrian,7,5,Rainy,Dry,Dark,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2020,May,Thursday,Minor,4,Two-Wheeler,4,5,Foggy,Damaged,Daylight,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2021,May,Sunday,Fatal,1,Bus,2,2,Stormy,Damaged,Dawn,Weekend,1,Minor,Yes,1
+Tamil Nadu,Chennai,2023,March,Thursday,Minor,5,Two-Wheeler,5,4,Hazy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Udaipur,2018,June,Saturday,Fatal,2,Auto-Rickshaw,7,4,Hazy,Damaged,Dawn,Weekend,1,Severe,Yes,1
+Maharashtra,Pune,2018,September,Wednesday,Minor,4,Two-Wheeler,6,0,Clear,Under Construction,Dusk,Weekday,1,Severe,No,1
+Rajasthan,Jaipur,2018,September,Thursday,Serious,3,Car,10,1,Rainy,Dry,Dark,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2020,September,Thursday,Serious,1,Cycle,3,1,Stormy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2023,January,Saturday,Serious,3,Auto-Rickshaw,9,3,Clear,Damaged,Dawn,Weekend,1,Severe,Yes,1
+Gujarat,Ahmedabad,2020,October,Monday,Serious,1,Bus,2,0,Foggy,Dry,Daylight,Weekday,1,Minor,No,1
+Tamil Nadu,Madurai,2023,April,Tuesday,Minor,4,Auto-Rickshaw,9,2,Rainy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2020,February,Monday,Minor,5,Two-Wheeler,0,5,Stormy,Wet,Dark,Weekday,1,No Injury,Yes,1
+Karnataka,Mangalore,2023,December,Wednesday,Minor,1,Truck,0,4,Rainy,Damaged,Dawn,Weekday,1,No Injury,Yes,1
+Uttar Pradesh,Lucknow,2020,May,Tuesday,Minor,3,Pedestrian,8,2,Hazy,Dry,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2021,April,Thursday,Minor,3,Bus,7,1,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2022,August,Saturday,Serious,1,Two-Wheeler,8,1,Hazy,Wet,Daylight,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2022,August,Wednesday,Serious,4,Truck,6,4,Stormy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2022,November,Sunday,Serious,5,Bus,6,0,Stormy,Wet,Dusk,Weekend,1,Severe,No,1
+Tamil Nadu,Madurai,2022,May,Sunday,Minor,3,Two-Wheeler,1,4,Foggy,Dry,Dark,Weekend,1,Minor,Yes,1
+Delhi,Dwarka,2020,February,Thursday,Serious,5,Truck,0,0,Foggy,Under Construction,Daylight,Weekday,1,No Injury,No,1
+Uttar Pradesh,Kanpur,2022,September,Sunday,Fatal,3,Two-Wheeler,4,0,Hazy,Dry,Dawn,Weekend,1,Moderate,No,1
+Delhi,Dwarka,2021,April,Tuesday,Fatal,3,Pedestrian,10,3,Stormy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2022,March,Wednesday,Fatal,1,Car,10,5,Foggy,Dry,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Jodhpur,2018,January,Monday,Fatal,2,Cycle,0,2,Hazy,Under Construction,Dark,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2019,April,Tuesday,Serious,1,Car,10,5,Hazy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2018,November,Saturday,Minor,2,Two-Wheeler,0,3,Clear,Under Construction,Dark,Weekend,1,No Injury,Yes,1
+West Bengal,Durgapur,2018,October,Sunday,Fatal,2,Bus,4,4,Foggy,Wet,Dark,Weekend,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2021,July,Friday,Fatal,5,Car,0,4,Stormy,Wet,Dark,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2018,May,Tuesday,Fatal,5,Cycle,5,0,Hazy,Under Construction,Dawn,Weekday,1,Moderate,No,1
+Andhra Pradesh,Visakhapatnam,2021,September,Tuesday,Fatal,3,Truck,8,2,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2023,November,Wednesday,Serious,3,Truck,3,3,Hazy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2020,June,Wednesday,Fatal,3,Truck,10,3,Stormy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Jaipur,2023,November,Saturday,Minor,4,Car,1,0,Stormy,Under Construction,Dusk,Weekend,1,Minor,No,1
+Karnataka,Mysore,2019,July,Wednesday,Minor,3,Cycle,7,0,Clear,Wet,Dusk,Weekday,1,Severe,No,1
+Uttar Pradesh,Lucknow,2023,November,Wednesday,Serious,4,Truck,1,0,Clear,Wet,Daylight,Weekday,1,Minor,No,1
+Uttar Pradesh,Lucknow,2023,May,Tuesday,Serious,3,Pedestrian,0,2,Clear,Wet,Dark,Weekday,1,No Injury,Yes,1
+Karnataka,Mangalore,2020,February,Wednesday,Serious,4,Cycle,2,2,Hazy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Ahmedabad,2022,January,Friday,Fatal,4,Two-Wheeler,8,5,Foggy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2021,August,Sunday,Fatal,2,Cycle,1,1,Clear,Dry,Dawn,Weekend,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2022,May,Monday,Fatal,1,Cycle,0,2,Hazy,Dry,Dusk,Weekday,1,No Injury,Yes,1
+Uttar Pradesh,Varanasi,2020,February,Wednesday,Fatal,3,Truck,3,5,Foggy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+West Bengal,Durgapur,2021,September,Monday,Fatal,2,Pedestrian,3,5,Stormy,Dry,Dusk,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2021,January,Tuesday,Fatal,1,Car,10,3,Rainy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2021,January,Wednesday,Fatal,4,Cycle,8,3,Stormy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2019,June,Sunday,Serious,3,Truck,10,3,Rainy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Karnataka,Mysore,2023,June,Sunday,Minor,2,Truck,8,0,Stormy,Dry,Dusk,Weekend,1,Severe,No,1
+Rajasthan,Jodhpur,2020,September,Tuesday,Serious,1,Cycle,0,2,Stormy,Dry,Dawn,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2021,April,Thursday,Minor,5,Two-Wheeler,6,4,Clear,Wet,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2022,March,Wednesday,Serious,1,Auto-Rickshaw,2,3,Hazy,Wet,Dusk,Weekday,1,Minor,Yes,1
+Maharashtra,Pune,2019,June,Friday,Serious,2,Cycle,3,1,Rainy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2020,February,Monday,Serious,3,Bus,2,0,Foggy,Wet,Dusk,Weekday,1,Minor,No,1
+Andhra Pradesh,Vijayawada,2021,May,Thursday,Minor,3,Auto-Rickshaw,5,4,Foggy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Rajasthan,Jaipur,2019,June,Friday,Minor,5,Car,7,0,Rainy,Dry,Dusk,Weekday,1,Severe,No,1
+Gujarat,Surat,2022,March,Monday,Fatal,3,Cycle,9,3,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2021,August,Thursday,Fatal,5,Two-Wheeler,6,4,Foggy,Dry,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2021,December,Saturday,Serious,5,Two-Wheeler,3,3,Foggy,Damaged,Daylight,Weekend,1,Moderate,Yes,1
+Delhi,New Delhi,2022,April,Monday,Fatal,3,Cycle,2,2,Stormy,Dry,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Siliguri,2018,April,Tuesday,Minor,4,Pedestrian,0,5,Foggy,Damaged,Dark,Weekday,1,No Injury,Yes,1
+West Bengal,Kolkata,2020,October,Thursday,Minor,3,Car,10,4,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2021,April,Wednesday,Serious,5,Bus,7,3,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2021,February,Monday,Minor,2,Car,7,0,Stormy,Wet,Dusk,Weekday,1,Severe,No,1
+Gujarat,Vadodara,2018,January,Thursday,Fatal,2,Bus,4,3,Hazy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2021,May,Friday,Serious,3,Truck,8,2,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2020,August,Wednesday,Fatal,2,Cycle,2,2,Foggy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2021,May,Wednesday,Fatal,2,Two-Wheeler,1,4,Clear,Damaged,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2022,July,Saturday,Minor,2,Bus,0,4,Hazy,Dry,Dark,Weekend,1,No Injury,Yes,1
+Delhi,New Delhi,2018,October,Wednesday,Serious,3,Cycle,4,4,Hazy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2020,December,Wednesday,Serious,3,Two-Wheeler,10,2,Stormy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2021,April,Thursday,Fatal,2,Cycle,10,1,Hazy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2023,August,Thursday,Serious,4,Bus,1,1,Stormy,Dry,Dawn,Weekday,1,Minor,Yes,1
+Tamil Nadu,Madurai,2020,June,Saturday,Serious,1,Truck,3,1,Foggy,Wet,Daylight,Weekend,1,Moderate,Yes,1
+Andhra Pradesh,Visakhapatnam,2018,December,Friday,Minor,4,Auto-Rickshaw,1,5,Foggy,Wet,Dark,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Varanasi,2023,July,Saturday,Minor,1,Pedestrian,1,3,Foggy,Wet,Dawn,Weekend,1,Minor,Yes,1
+Karnataka,Bangalore,2021,October,Friday,Minor,1,Pedestrian,2,3,Stormy,Dry,Dawn,Weekday,1,Minor,Yes,1
+Delhi,Rohini,2018,May,Saturday,Serious,4,Bus,0,1,Rainy,Wet,Daylight,Weekend,1,No Injury,Yes,1
+Gujarat,Vadodara,2021,April,Sunday,Fatal,3,Cycle,3,1,Stormy,Dry,Daylight,Weekend,1,Moderate,Yes,1
+Delhi,Dwarka,2021,October,Wednesday,Serious,5,Two-Wheeler,8,4,Foggy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2022,March,Sunday,Minor,5,Pedestrian,6,0,Rainy,Under Construction,Dark,Weekend,1,Severe,No,1
+West Bengal,Kolkata,2020,April,Thursday,Minor,3,Two-Wheeler,8,0,Hazy,Damaged,Dark,Weekday,1,Severe,No,1
+Maharashtra,Pune,2022,April,Monday,Minor,3,Pedestrian,7,1,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2023,June,Tuesday,Fatal,4,Cycle,5,2,Foggy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2022,December,Friday,Fatal,3,Auto-Rickshaw,3,2,Foggy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2019,February,Saturday,Minor,5,Car,10,2,Rainy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2021,June,Saturday,Fatal,3,Two-Wheeler,9,0,Clear,Wet,Dawn,Weekend,1,Severe,No,1
+West Bengal,Kolkata,2021,December,Thursday,Serious,4,Truck,5,1,Stormy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2022,February,Wednesday,Fatal,5,Car,6,2,Stormy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2020,January,Thursday,Minor,1,Pedestrian,2,2,Hazy,Dry,Dark,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Visakhapatnam,2020,December,Thursday,Minor,4,Auto-Rickshaw,10,1,Stormy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2020,December,Saturday,Fatal,3,Bus,8,4,Hazy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2022,November,Tuesday,Fatal,5,Auto-Rickshaw,10,5,Stormy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2021,April,Monday,Minor,5,Pedestrian,4,4,Stormy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2021,April,Monday,Minor,2,Truck,7,0,Stormy,Wet,Dusk,Weekday,1,Severe,No,1
+Delhi,Rohini,2020,March,Saturday,Serious,3,Auto-Rickshaw,1,5,Clear,Dry,Dawn,Weekend,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2020,November,Tuesday,Minor,1,Pedestrian,9,4,Clear,Dry,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2022,September,Saturday,Serious,2,Cycle,0,0,Clear,Dry,Dark,Weekend,1,No Injury,No,1
+Karnataka,Bangalore,2022,December,Thursday,Minor,1,Two-Wheeler,5,3,Stormy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Gujarat,Surat,2022,March,Monday,Minor,5,Two-Wheeler,6,2,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2023,October,Tuesday,Serious,1,Car,10,5,Hazy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2018,April,Saturday,Minor,3,Bus,1,5,Stormy,Under Construction,Dark,Weekend,1,Minor,Yes,1
+Gujarat,Surat,2022,January,Wednesday,Serious,4,Truck,6,1,Rainy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2021,January,Friday,Minor,3,Pedestrian,8,5,Stormy,Dry,Dark,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2023,September,Saturday,Minor,3,Truck,10,0,Rainy,Dry,Dawn,Weekend,1,Severe,No,1
+Uttar Pradesh,Kanpur,2023,November,Wednesday,Minor,5,Truck,8,0,Rainy,Wet,Dawn,Weekday,1,Severe,No,1
+Delhi,New Delhi,2020,July,Friday,Serious,1,Car,8,0,Clear,Under Construction,Dusk,Weekday,1,Severe,No,1
+Maharashtra,Nagpur,2022,March,Sunday,Serious,2,Truck,10,3,Clear,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Tamil Nadu,Madurai,2023,October,Monday,Fatal,5,Pedestrian,5,5,Foggy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2023,November,Saturday,Minor,1,Auto-Rickshaw,10,1,Clear,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Delhi,New Delhi,2020,January,Wednesday,Fatal,4,Car,1,1,Rainy,Wet,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2021,March,Saturday,Minor,4,Cycle,10,2,Hazy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2018,May,Tuesday,Minor,2,Bus,6,0,Foggy,Wet,Dark,Weekday,1,Severe,No,1
+Uttar Pradesh,Lucknow,2022,October,Wednesday,Serious,3,Two-Wheeler,8,5,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2018,February,Tuesday,Serious,2,Bus,3,3,Rainy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2018,March,Friday,Fatal,4,Bus,2,2,Clear,Damaged,Daylight,Weekday,1,Minor,Yes,1
+Karnataka,Mangalore,2019,August,Tuesday,Serious,2,Two-Wheeler,3,5,Clear,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Gujarat,Surat,2019,October,Friday,Serious,3,Pedestrian,4,0,Rainy,Dry,Daylight,Weekday,1,Moderate,No,1
+Rajasthan,Jaipur,2018,October,Saturday,Minor,1,Bus,9,2,Rainy,Wet,Dusk,Weekend,1,Severe,Yes,1
+Tamil Nadu,Madurai,2021,April,Thursday,Minor,2,Auto-Rickshaw,1,5,Clear,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Karnataka,Mysore,2018,April,Saturday,Fatal,3,Car,0,3,Hazy,Dry,Dark,Weekend,1,No Injury,Yes,1
+Delhi,Dwarka,2023,February,Tuesday,Fatal,5,Two-Wheeler,7,2,Rainy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2021,October,Sunday,Minor,1,Two-Wheeler,7,4,Hazy,Wet,Daylight,Weekend,1,Severe,Yes,1
+Maharashtra,Pune,2021,May,Saturday,Fatal,5,Auto-Rickshaw,9,4,Stormy,Dry,Dark,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2022,November,Friday,Fatal,1,Car,5,2,Stormy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2022,November,Wednesday,Minor,2,Bus,9,4,Rainy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2023,July,Thursday,Minor,3,Two-Wheeler,4,5,Rainy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Maharashtra,Nagpur,2023,August,Tuesday,Minor,1,Truck,1,2,Clear,Wet,Dark,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Kanpur,2018,July,Tuesday,Fatal,3,Pedestrian,0,0,Stormy,Dry,Dark,Weekday,1,No Injury,No,1
+Rajasthan,Jodhpur,2020,May,Friday,Fatal,5,Truck,6,1,Foggy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2021,October,Sunday,Minor,5,Auto-Rickshaw,8,1,Hazy,Under Construction,Dusk,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2018,March,Saturday,Fatal,1,Cycle,7,5,Clear,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Maharashtra,Mumbai,2021,January,Sunday,Serious,2,Car,4,4,Foggy,Dry,Dusk,Weekend,1,Moderate,Yes,1
+Karnataka,Mangalore,2018,January,Wednesday,Minor,5,Cycle,9,0,Foggy,Wet,Dawn,Weekday,1,Severe,No,1
+Delhi,New Delhi,2020,July,Saturday,Fatal,3,Truck,1,2,Rainy,Under Construction,Dawn,Weekend,1,Minor,Yes,1
+Rajasthan,Jodhpur,2019,October,Saturday,Serious,2,Bus,8,3,Hazy,Dry,Dark,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2021,July,Thursday,Serious,2,Pedestrian,6,1,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Jodhpur,2021,August,Sunday,Fatal,1,Pedestrian,5,1,Stormy,Wet,Dawn,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2023,March,Tuesday,Serious,1,Car,6,2,Rainy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,May,Thursday,Minor,5,Two-Wheeler,5,0,Foggy,Wet,Daylight,Weekday,1,Moderate,No,1
+Karnataka,Mysore,2023,July,Sunday,Fatal,2,Two-Wheeler,1,4,Foggy,Dry,Dawn,Weekend,1,Minor,Yes,1
+Gujarat,Surat,2021,October,Wednesday,Fatal,2,Truck,2,3,Rainy,Damaged,Dark,Weekday,1,Minor,Yes,1
+Delhi,Dwarka,2020,November,Wednesday,Serious,1,Pedestrian,7,5,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2020,September,Sunday,Fatal,4,Two-Wheeler,1,3,Rainy,Damaged,Dusk,Weekend,1,Minor,Yes,1
+Delhi,Dwarka,2018,June,Saturday,Fatal,5,Bus,7,1,Stormy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Delhi,Dwarka,2021,October,Thursday,Fatal,4,Car,0,2,Foggy,Wet,Dawn,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Coimbatore,2020,February,Wednesday,Fatal,5,Bus,2,0,Rainy,Dry,Daylight,Weekday,1,Minor,No,1
+Andhra Pradesh,Vijayawada,2018,October,Thursday,Fatal,4,Cycle,3,3,Foggy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Gujarat,Surat,2020,August,Saturday,Minor,2,Bus,4,2,Hazy,Damaged,Dark,Weekend,1,Moderate,Yes,1
+Maharashtra,Pune,2021,December,Wednesday,Fatal,3,Truck,5,2,Rainy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2018,July,Saturday,Fatal,1,Pedestrian,7,1,Rainy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Karnataka,Mysore,2020,August,Saturday,Fatal,4,Two-Wheeler,0,1,Clear,Damaged,Dark,Weekend,1,No Injury,Yes,1
+West Bengal,Durgapur,2021,March,Friday,Fatal,2,Bus,10,1,Stormy,Wet,Dark,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2019,January,Wednesday,Serious,3,Cycle,7,5,Foggy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2021,March,Sunday,Fatal,1,Truck,10,2,Rainy,Wet,Daylight,Weekend,1,Severe,Yes,1
+Delhi,Rohini,2021,November,Saturday,Serious,1,Car,10,3,Hazy,Wet,Daylight,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2020,October,Friday,Minor,3,Car,2,3,Clear,Under Construction,Dark,Weekday,1,Minor,Yes,1
+Delhi,Rohini,2020,January,Friday,Minor,5,Cycle,8,2,Clear,Wet,Dark,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2019,June,Saturday,Minor,5,Auto-Rickshaw,4,3,Clear,Damaged,Daylight,Weekend,1,Moderate,Yes,1
+Maharashtra,Nagpur,2018,June,Monday,Serious,4,Cycle,0,3,Foggy,Under Construction,Dawn,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Visakhapatnam,2020,October,Monday,Serious,3,Truck,6,5,Hazy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2018,August,Thursday,Serious,3,Cycle,8,4,Hazy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2018,December,Sunday,Serious,1,Auto-Rickshaw,10,0,Stormy,Dry,Dark,Weekend,1,Severe,No,1
+Rajasthan,Jaipur,2020,October,Monday,Fatal,3,Two-Wheeler,7,0,Hazy,Under Construction,Dusk,Weekday,1,Severe,No,1
+Delhi,Dwarka,2020,May,Tuesday,Serious,4,Bus,4,0,Stormy,Wet,Daylight,Weekday,1,Moderate,No,1
+Maharashtra,Pune,2018,July,Sunday,Serious,4,Car,3,3,Stormy,Damaged,Daylight,Weekend,1,Moderate,Yes,1
+Delhi,Dwarka,2020,November,Sunday,Minor,4,Two-Wheeler,1,3,Rainy,Under Construction,Daylight,Weekend,1,Minor,Yes,1
+Maharashtra,Mumbai,2020,May,Wednesday,Serious,3,Car,5,2,Clear,Wet,Daylight,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2021,July,Thursday,Serious,3,Bus,8,2,Stormy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2020,March,Friday,Fatal,5,Pedestrian,9,3,Clear,Wet,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2023,August,Tuesday,Minor,3,Bus,3,0,Stormy,Damaged,Dawn,Weekday,1,Moderate,No,1
+West Bengal,Siliguri,2023,October,Monday,Serious,3,Cycle,0,5,Rainy,Wet,Dusk,Weekday,1,No Injury,Yes,1
+Karnataka,Mysore,2020,February,Friday,Minor,5,Car,1,3,Foggy,Wet,Dawn,Weekday,1,Minor,Yes,1
+Delhi,Rohini,2020,May,Friday,Minor,5,Bus,0,1,Stormy,Under Construction,Dusk,Weekday,1,No Injury,Yes,1
+Karnataka,Mysore,2021,February,Sunday,Minor,4,Bus,8,1,Stormy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Ahmedabad,2019,September,Saturday,Minor,4,Cycle,6,3,Hazy,Under Construction,Dawn,Weekend,1,Severe,Yes,1
+West Bengal,Siliguri,2018,September,Friday,Serious,4,Auto-Rickshaw,8,0,Rainy,Dry,Dark,Weekday,1,Severe,No,1
+Andhra Pradesh,Tirupati,2023,December,Friday,Fatal,2,Truck,1,2,Clear,Dry,Dusk,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Visakhapatnam,2023,November,Wednesday,Fatal,5,Car,1,1,Hazy,Wet,Daylight,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2019,July,Sunday,Fatal,3,Truck,10,0,Foggy,Under Construction,Daylight,Weekend,1,Severe,No,1
+Tamil Nadu,Coimbatore,2018,August,Thursday,Serious,5,Pedestrian,8,2,Rainy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2023,May,Wednesday,Serious,1,Bus,8,5,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2023,February,Wednesday,Minor,5,Bus,2,4,Clear,Wet,Dawn,Weekday,1,Minor,Yes,1
+Rajasthan,Jodhpur,2018,January,Sunday,Serious,1,Pedestrian,0,4,Rainy,Damaged,Dawn,Weekend,1,No Injury,Yes,1
+West Bengal,Durgapur,2023,November,Tuesday,Serious,4,Truck,0,3,Hazy,Damaged,Dawn,Weekday,1,No Injury,Yes,1
+Delhi,Dwarka,2023,September,Sunday,Fatal,1,Bus,3,3,Clear,Dry,Dark,Weekend,1,Moderate,Yes,1
+Maharashtra,Nagpur,2021,February,Monday,Fatal,2,Bus,7,5,Stormy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2019,March,Monday,Fatal,1,Car,2,4,Rainy,Damaged,Dark,Weekday,1,Minor,Yes,1
+Gujarat,Surat,2019,July,Monday,Serious,3,Pedestrian,1,1,Stormy,Wet,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2022,December,Tuesday,Fatal,5,Cycle,6,3,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2022,March,Sunday,Fatal,3,Two-Wheeler,5,0,Foggy,Wet,Dusk,Weekend,1,Moderate,No,1
+Tamil Nadu,Chennai,2020,May,Wednesday,Minor,4,Auto-Rickshaw,1,4,Rainy,Damaged,Dusk,Weekday,1,Minor,Yes,1
+Maharashtra,Nagpur,2021,August,Tuesday,Minor,1,Two-Wheeler,10,3,Clear,Dry,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2018,April,Friday,Serious,5,Bus,3,1,Hazy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2021,November,Wednesday,Fatal,3,Bus,0,3,Foggy,Damaged,Dark,Weekday,1,No Injury,Yes,1
+Karnataka,Mysore,2018,August,Friday,Fatal,5,Truck,6,1,Clear,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2020,October,Tuesday,Fatal,3,Two-Wheeler,2,0,Hazy,Under Construction,Daylight,Weekday,1,Minor,No,1
+Karnataka,Bangalore,2020,April,Saturday,Serious,4,Bus,5,3,Stormy,Under Construction,Daylight,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2020,March,Thursday,Fatal,5,Pedestrian,3,2,Hazy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2020,January,Wednesday,Serious,4,Auto-Rickshaw,6,3,Foggy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2019,September,Tuesday,Minor,4,Truck,5,0,Stormy,Dry,Dawn,Weekday,1,Moderate,No,1
+Maharashtra,Pune,2019,December,Wednesday,Fatal,3,Auto-Rickshaw,9,1,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2023,March,Thursday,Serious,4,Auto-Rickshaw,4,4,Clear,Wet,Dawn,Weekday,1,Moderate,Yes,1
+Rajasthan,Jaipur,2022,May,Tuesday,Minor,1,Auto-Rickshaw,10,2,Foggy,Dry,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Jaipur,2020,September,Monday,Serious,4,Auto-Rickshaw,6,1,Clear,Dry,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2021,March,Tuesday,Fatal,2,Auto-Rickshaw,2,4,Rainy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Tamil Nadu,Chennai,2021,June,Monday,Fatal,3,Truck,1,0,Rainy,Damaged,Daylight,Weekday,1,Minor,No,1
+Andhra Pradesh,Vijayawada,2020,February,Friday,Minor,1,Auto-Rickshaw,0,0,Stormy,Wet,Dark,Weekday,1,No Injury,No,1
+Andhra Pradesh,Tirupati,2022,May,Saturday,Serious,4,Truck,2,2,Foggy,Dry,Dawn,Weekend,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2022,January,Sunday,Serious,2,Pedestrian,3,0,Hazy,Damaged,Dawn,Weekend,1,Moderate,No,1
+Karnataka,Bangalore,2021,August,Wednesday,Fatal,5,Pedestrian,0,5,Hazy,Under Construction,Dark,Weekday,1,No Injury,Yes,1
+Delhi,Dwarka,2019,January,Wednesday,Serious,5,Car,5,0,Rainy,Damaged,Daylight,Weekday,1,Moderate,No,1
+Rajasthan,Jaipur,2018,January,Thursday,Minor,2,Cycle,10,4,Foggy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2019,March,Tuesday,Minor,5,Bus,0,5,Foggy,Under Construction,Dark,Weekday,1,No Injury,Yes,1
+Andhra Pradesh,Visakhapatnam,2020,June,Wednesday,Serious,4,Truck,7,3,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2019,April,Wednesday,Serious,1,Car,4,2,Rainy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2018,September,Saturday,Fatal,5,Auto-Rickshaw,3,4,Clear,Wet,Dusk,Weekend,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2023,March,Sunday,Minor,4,Truck,10,2,Stormy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Delhi,New Delhi,2023,June,Tuesday,Serious,5,Cycle,10,3,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2022,October,Saturday,Minor,3,Pedestrian,10,3,Stormy,Under Construction,Dark,Weekend,1,Severe,Yes,1
+West Bengal,Siliguri,2018,July,Sunday,Fatal,5,Car,5,1,Clear,Dry,Dusk,Weekend,1,Moderate,Yes,1
+Andhra Pradesh,Visakhapatnam,2021,August,Monday,Fatal,1,Pedestrian,1,2,Hazy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Rajasthan,Jaipur,2019,December,Friday,Serious,1,Bus,1,2,Clear,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Visakhapatnam,2020,November,Monday,Serious,2,Car,9,0,Stormy,Under Construction,Dark,Weekday,1,Severe,No,1
+Maharashtra,Nagpur,2023,April,Friday,Fatal,2,Cycle,5,3,Rainy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2022,May,Saturday,Serious,4,Auto-Rickshaw,2,3,Foggy,Under Construction,Dawn,Weekend,1,Minor,Yes,1
+Karnataka,Mysore,2021,February,Friday,Serious,3,Two-Wheeler,10,2,Foggy,Dry,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2018,February,Sunday,Fatal,5,Truck,6,0,Hazy,Wet,Daylight,Weekend,1,Severe,No,1
+Delhi,Rohini,2018,June,Saturday,Serious,1,Two-Wheeler,2,1,Clear,Dry,Dark,Weekend,1,Minor,Yes,1
+Tamil Nadu,Madurai,2021,December,Saturday,Fatal,1,Car,0,0,Hazy,Damaged,Dusk,Weekend,1,No Injury,No,1
+Maharashtra,Pune,2022,June,Friday,Serious,1,Cycle,8,5,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2022,August,Sunday,Minor,1,Auto-Rickshaw,10,0,Clear,Dry,Dark,Weekend,1,Severe,No,1
+Karnataka,Bangalore,2019,October,Saturday,Minor,4,Cycle,0,5,Rainy,Under Construction,Dusk,Weekend,1,No Injury,Yes,1
+Rajasthan,Jaipur,2019,April,Saturday,Serious,5,Pedestrian,9,0,Foggy,Dry,Dark,Weekend,1,Severe,No,1
+West Bengal,Siliguri,2021,June,Saturday,Serious,2,Cycle,4,4,Foggy,Dry,Dawn,Weekend,1,Moderate,Yes,1
+Maharashtra,Nagpur,2022,July,Monday,Serious,2,Truck,10,2,Clear,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2023,April,Monday,Minor,4,Truck,5,2,Stormy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2021,November,Wednesday,Minor,3,Truck,7,3,Hazy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2019,November,Saturday,Fatal,2,Cycle,9,1,Foggy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Delhi,New Delhi,2022,December,Friday,Minor,3,Bus,2,1,Stormy,Under Construction,Daylight,Weekday,1,Minor,Yes,1
+Tamil Nadu,Chennai,2022,June,Sunday,Fatal,4,Cycle,3,5,Hazy,Dry,Daylight,Weekend,1,Moderate,Yes,1
+Maharashtra,Nagpur,2022,December,Sunday,Serious,5,Two-Wheeler,1,3,Foggy,Wet,Dawn,Weekend,1,Minor,Yes,1
+Delhi,New Delhi,2018,February,Wednesday,Fatal,4,Truck,10,5,Stormy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2022,January,Saturday,Minor,5,Bus,5,0,Rainy,Dry,Dawn,Weekend,1,Moderate,No,1
+Gujarat,Vadodara,2022,April,Tuesday,Serious,1,Two-Wheeler,9,0,Hazy,Under Construction,Daylight,Weekday,1,Severe,No,1
+Karnataka,Mysore,2022,November,Friday,Serious,4,Bus,5,5,Stormy,Dry,Dark,Weekday,1,Moderate,Yes,1
+Gujarat,Surat,2023,March,Friday,Serious,5,Truck,2,4,Rainy,Wet,Dusk,Weekday,1,Minor,Yes,1
+Gujarat,Vadodara,2021,June,Friday,Minor,5,Bus,2,3,Clear,Dry,Dusk,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Kanpur,2020,September,Wednesday,Fatal,2,Truck,0,3,Hazy,Under Construction,Dusk,Weekday,1,No Injury,Yes,1
+Rajasthan,Udaipur,2021,May,Sunday,Serious,5,Car,8,4,Rainy,Wet,Dark,Weekend,1,Severe,Yes,1
+Delhi,Rohini,2023,March,Tuesday,Minor,2,Truck,7,5,Foggy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2023,October,Friday,Serious,1,Two-Wheeler,4,1,Foggy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2020,April,Wednesday,Minor,3,Auto-Rickshaw,9,0,Foggy,Under Construction,Dawn,Weekday,1,Severe,No,1
+West Bengal,Kolkata,2019,November,Friday,Serious,1,Two-Wheeler,7,2,Rainy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2018,October,Saturday,Serious,1,Bus,2,1,Foggy,Dry,Dawn,Weekend,1,Minor,Yes,1
+Gujarat,Ahmedabad,2019,July,Wednesday,Minor,3,Bus,10,0,Rainy,Wet,Daylight,Weekday,1,Severe,No,1
+West Bengal,Kolkata,2018,January,Friday,Serious,5,Pedestrian,2,3,Clear,Dry,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Siliguri,2023,November,Thursday,Serious,5,Car,7,4,Hazy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2020,October,Thursday,Serious,1,Bus,2,3,Hazy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Tamil Nadu,Chennai,2021,December,Sunday,Fatal,4,Auto-Rickshaw,5,4,Stormy,Wet,Dusk,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2020,April,Sunday,Fatal,2,Auto-Rickshaw,1,5,Rainy,Dry,Dawn,Weekend,1,Minor,Yes,1
+Delhi,Dwarka,2019,August,Tuesday,Serious,5,Auto-Rickshaw,10,2,Clear,Wet,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2021,May,Friday,Minor,5,Cycle,5,3,Clear,Dry,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Jaipur,2020,June,Thursday,Fatal,4,Truck,0,4,Stormy,Wet,Daylight,Weekday,1,No Injury,Yes,1
+Rajasthan,Jodhpur,2019,August,Friday,Fatal,2,Car,5,2,Clear,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2020,December,Monday,Minor,3,Auto-Rickshaw,1,0,Clear,Damaged,Dusk,Weekday,1,Minor,No,1
+Tamil Nadu,Madurai,2020,October,Friday,Minor,2,Car,4,3,Rainy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2019,March,Sunday,Fatal,2,Cycle,10,3,Foggy,Under Construction,Dusk,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2022,March,Sunday,Fatal,4,Auto-Rickshaw,4,5,Hazy,Under Construction,Daylight,Weekend,1,Moderate,Yes,1
+Delhi,Rohini,2021,March,Saturday,Minor,5,Auto-Rickshaw,0,4,Clear,Wet,Dusk,Weekend,1,No Injury,Yes,1
+Uttar Pradesh,Kanpur,2018,September,Saturday,Minor,4,Two-Wheeler,3,5,Foggy,Dry,Dark,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2019,July,Monday,Fatal,5,Two-Wheeler,5,0,Clear,Damaged,Dawn,Weekday,1,Moderate,No,1
+Andhra Pradesh,Vijayawada,2020,December,Tuesday,Minor,4,Bus,8,1,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2018,June,Tuesday,Minor,5,Pedestrian,1,1,Stormy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Ahmedabad,2018,November,Thursday,Minor,4,Two-Wheeler,0,2,Hazy,Dry,Dawn,Weekday,1,No Injury,Yes,1
+Rajasthan,Udaipur,2018,April,Monday,Minor,5,Pedestrian,8,5,Hazy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2020,August,Sunday,Serious,1,Cycle,6,3,Clear,Wet,Dawn,Weekend,1,Severe,Yes,1
+Rajasthan,Jaipur,2023,November,Thursday,Serious,4,Auto-Rickshaw,7,1,Rainy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2018,October,Saturday,Fatal,3,Bus,5,0,Clear,Dry,Daylight,Weekend,1,Moderate,No,1
+Rajasthan,Jaipur,2023,December,Saturday,Fatal,4,Pedestrian,5,1,Hazy,Under Construction,Dark,Weekend,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2020,November,Sunday,Minor,1,Car,5,2,Hazy,Under Construction,Dark,Weekend,1,Moderate,Yes,1
+Karnataka,Mysore,2022,February,Sunday,Fatal,1,Bus,0,0,Hazy,Wet,Dark,Weekend,1,No Injury,No,1
+Delhi,Rohini,2021,December,Wednesday,Serious,5,Two-Wheeler,8,0,Foggy,Damaged,Dusk,Weekday,1,Severe,No,1
+Gujarat,Vadodara,2020,January,Thursday,Serious,5,Car,8,1,Hazy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2023,October,Tuesday,Minor,2,Auto-Rickshaw,7,1,Stormy,Dry,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2018,September,Sunday,Minor,3,Cycle,1,5,Stormy,Dry,Dusk,Weekend,1,Minor,Yes,1
+Uttar Pradesh,Kanpur,2021,February,Wednesday,Serious,2,Two-Wheeler,1,1,Stormy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Vadodara,2021,June,Tuesday,Fatal,2,Cycle,2,3,Foggy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Rajasthan,Udaipur,2020,May,Sunday,Fatal,2,Two-Wheeler,2,5,Stormy,Damaged,Dusk,Weekend,1,Minor,Yes,1
+Gujarat,Surat,2018,February,Tuesday,Fatal,1,Bus,5,0,Rainy,Under Construction,Dawn,Weekday,1,Moderate,No,1
+Gujarat,Surat,2018,June,Saturday,Serious,4,Auto-Rickshaw,0,5,Foggy,Dry,Dark,Weekend,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2018,May,Saturday,Serious,1,Two-Wheeler,2,0,Hazy,Wet,Daylight,Weekend,1,Minor,No,1
+Tamil Nadu,Coimbatore,2020,September,Thursday,Fatal,1,Bus,7,1,Hazy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2019,October,Saturday,Minor,4,Car,5,0,Rainy,Under Construction,Daylight,Weekend,1,Moderate,No,1
+Rajasthan,Jodhpur,2018,December,Thursday,Minor,2,Car,7,3,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2022,June,Wednesday,Minor,1,Pedestrian,9,1,Rainy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2020,April,Wednesday,Fatal,2,Bus,2,5,Foggy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Rajasthan,Jaipur,2022,August,Tuesday,Minor,2,Pedestrian,4,4,Clear,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2021,June,Wednesday,Serious,2,Bus,10,4,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2020,August,Monday,Minor,3,Truck,2,1,Stormy,Damaged,Daylight,Weekday,1,Minor,Yes,1
+Tamil Nadu,Coimbatore,2022,April,Sunday,Serious,4,Bus,1,4,Hazy,Under Construction,Dark,Weekend,1,Minor,Yes,1
+Gujarat,Surat,2020,October,Sunday,Fatal,1,Pedestrian,8,4,Stormy,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Karnataka,Mysore,2021,October,Sunday,Serious,1,Two-Wheeler,7,2,Stormy,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Rajasthan,Jodhpur,2021,March,Monday,Fatal,2,Cycle,10,0,Foggy,Damaged,Dusk,Weekday,1,Severe,No,1
+Delhi,Dwarka,2022,January,Wednesday,Minor,1,Truck,10,5,Hazy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2019,November,Friday,Serious,5,Auto-Rickshaw,6,1,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2019,June,Wednesday,Minor,3,Bus,2,5,Rainy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Visakhapatnam,2019,October,Thursday,Minor,3,Car,3,5,Stormy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Rajasthan,Udaipur,2018,January,Monday,Fatal,3,Two-Wheeler,5,3,Clear,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2022,December,Monday,Minor,2,Truck,10,4,Hazy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2021,October,Saturday,Fatal,3,Pedestrian,8,0,Stormy,Dry,Dawn,Weekend,1,Severe,No,1
+Karnataka,Bangalore,2022,February,Wednesday,Minor,1,Cycle,0,5,Rainy,Under Construction,Dusk,Weekday,1,No Injury,Yes,1
+Rajasthan,Udaipur,2019,March,Saturday,Minor,1,Cycle,2,0,Hazy,Dry,Dawn,Weekend,1,Minor,No,1
+Rajasthan,Udaipur,2020,October,Tuesday,Minor,3,Auto-Rickshaw,4,1,Foggy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Udaipur,2021,July,Sunday,Minor,1,Two-Wheeler,8,5,Clear,Wet,Dawn,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2019,December,Wednesday,Fatal,1,Truck,3,1,Stormy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2022,March,Tuesday,Minor,4,Pedestrian,2,0,Stormy,Dry,Dusk,Weekday,1,Minor,No,1
+Maharashtra,Mumbai,2018,June,Saturday,Fatal,2,Cycle,8,5,Hazy,Wet,Dark,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2020,March,Sunday,Serious,4,Truck,5,2,Hazy,Wet,Daylight,Weekend,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2018,September,Thursday,Minor,1,Two-Wheeler,2,2,Rainy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Gujarat,Vadodara,2019,November,Friday,Minor,4,Car,7,4,Foggy,Wet,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2020,November,Monday,Fatal,2,Pedestrian,4,3,Hazy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2023,July,Tuesday,Fatal,4,Cycle,4,1,Foggy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+West Bengal,Durgapur,2021,December,Friday,Fatal,5,Truck,6,1,Stormy,Wet,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2018,July,Saturday,Minor,3,Car,10,4,Stormy,Damaged,Dawn,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2022,July,Sunday,Minor,3,Auto-Rickshaw,1,0,Hazy,Wet,Daylight,Weekend,1,Minor,No,1
+West Bengal,Siliguri,2018,December,Sunday,Minor,5,Auto-Rickshaw,5,0,Hazy,Dry,Dark,Weekend,1,Moderate,No,1
+Rajasthan,Udaipur,2022,April,Friday,Serious,4,Car,7,5,Foggy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2021,March,Sunday,Serious,2,Cycle,6,4,Rainy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Vadodara,2021,October,Tuesday,Serious,1,Auto-Rickshaw,5,4,Foggy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Maharashtra,Nagpur,2023,March,Tuesday,Fatal,2,Bus,4,3,Stormy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2021,April,Friday,Serious,2,Two-Wheeler,2,2,Clear,Dry,Dark,Weekday,1,Minor,Yes,1
+Karnataka,Mangalore,2019,September,Thursday,Minor,5,Pedestrian,8,4,Clear,Wet,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2021,June,Wednesday,Fatal,4,Two-Wheeler,2,2,Clear,Damaged,Dawn,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2022,January,Wednesday,Minor,1,Truck,8,5,Foggy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2020,March,Friday,Minor,5,Cycle,0,2,Foggy,Damaged,Dusk,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Madurai,2021,May,Wednesday,Minor,4,Bus,4,1,Clear,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2023,December,Monday,Fatal,1,Bus,3,5,Rainy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2019,September,Thursday,Fatal,3,Bus,4,5,Stormy,Under Construction,Dusk,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2023,September,Wednesday,Minor,5,Bus,4,3,Stormy,Dry,Dark,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2018,November,Wednesday,Serious,1,Truck,7,3,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2019,July,Friday,Fatal,2,Truck,3,2,Foggy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2023,March,Tuesday,Minor,2,Bus,7,1,Rainy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2020,May,Monday,Fatal,1,Pedestrian,1,1,Clear,Dry,Daylight,Weekday,1,Minor,Yes,1
+Karnataka,Bangalore,2021,March,Wednesday,Minor,3,Car,7,4,Rainy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2018,November,Wednesday,Fatal,4,Cycle,9,4,Stormy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2018,November,Tuesday,Fatal,4,Auto-Rickshaw,4,0,Hazy,Wet,Dusk,Weekday,1,Moderate,No,1
+Tamil Nadu,Coimbatore,2021,September,Tuesday,Fatal,4,Bus,6,0,Hazy,Wet,Dusk,Weekday,1,Severe,No,1
+Rajasthan,Udaipur,2022,June,Wednesday,Minor,3,Bus,2,5,Stormy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Tamil Nadu,Madurai,2022,September,Wednesday,Minor,3,Truck,0,5,Rainy,Wet,Dark,Weekday,1,No Injury,Yes,1
+West Bengal,Siliguri,2022,March,Wednesday,Serious,3,Cycle,4,5,Foggy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2020,May,Saturday,Fatal,1,Auto-Rickshaw,4,5,Foggy,Damaged,Dark,Weekend,1,Moderate,Yes,1
+Maharashtra,Mumbai,2023,April,Sunday,Fatal,5,Two-Wheeler,8,5,Stormy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Karnataka,Mysore,2022,June,Friday,Minor,5,Cycle,7,0,Stormy,Damaged,Dusk,Weekday,1,Severe,No,1
+Delhi,Rohini,2020,November,Monday,Serious,5,Two-Wheeler,6,4,Foggy,Dry,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2018,March,Friday,Serious,5,Two-Wheeler,3,2,Stormy,Dry,Dark,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2022,December,Thursday,Serious,2,Truck,0,0,Stormy,Dry,Dawn,Weekday,1,No Injury,No,1
+Maharashtra,Pune,2020,October,Thursday,Fatal,2,Auto-Rickshaw,8,5,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2022,November,Tuesday,Serious,1,Truck,0,0,Foggy,Dry,Dawn,Weekday,1,No Injury,No,1
+Maharashtra,Nagpur,2020,January,Monday,Fatal,2,Car,4,1,Stormy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2019,January,Monday,Minor,3,Truck,7,5,Stormy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2018,May,Wednesday,Fatal,5,Auto-Rickshaw,0,2,Stormy,Under Construction,Dawn,Weekday,1,No Injury,Yes,1
+West Bengal,Siliguri,2021,April,Thursday,Serious,2,Pedestrian,6,2,Rainy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2018,February,Thursday,Minor,1,Pedestrian,8,0,Hazy,Wet,Dark,Weekday,1,Severe,No,1
+Karnataka,Bangalore,2019,July,Tuesday,Minor,5,Truck,5,0,Clear,Damaged,Dark,Weekday,1,Moderate,No,1
+Rajasthan,Jodhpur,2021,January,Tuesday,Fatal,3,Truck,2,4,Hazy,Wet,Daylight,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2018,February,Wednesday,Fatal,2,Cycle,6,5,Rainy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2021,November,Friday,Minor,5,Truck,7,5,Foggy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2021,August,Wednesday,Minor,1,Car,2,2,Rainy,Under Construction,Dawn,Weekday,1,Minor,Yes,1
+Gujarat,Ahmedabad,2021,September,Saturday,Fatal,1,Cycle,8,3,Stormy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Delhi,Rohini,2023,February,Friday,Fatal,4,Truck,5,3,Rainy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2019,December,Sunday,Fatal,2,Auto-Rickshaw,7,1,Hazy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+West Bengal,Siliguri,2023,April,Monday,Serious,5,Auto-Rickshaw,8,3,Hazy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2018,June,Monday,Fatal,4,Bus,1,0,Foggy,Wet,Dark,Weekday,1,Minor,No,1
+Uttar Pradesh,Varanasi,2018,November,Thursday,Minor,4,Two-Wheeler,8,4,Rainy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2021,October,Saturday,Minor,3,Car,1,3,Foggy,Wet,Dusk,Weekend,1,Minor,Yes,1
+Andhra Pradesh,Vijayawada,2021,November,Friday,Serious,4,Auto-Rickshaw,9,5,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2021,October,Thursday,Fatal,3,Bus,2,0,Foggy,Dry,Daylight,Weekday,1,Minor,No,1
+Maharashtra,Mumbai,2019,January,Friday,Minor,3,Car,4,0,Rainy,Wet,Dusk,Weekday,1,Moderate,No,1
+Delhi,Rohini,2023,March,Saturday,Minor,3,Bus,0,3,Clear,Under Construction,Dark,Weekend,1,No Injury,Yes,1
+Gujarat,Ahmedabad,2021,April,Thursday,Minor,5,Truck,7,5,Hazy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2018,March,Thursday,Minor,3,Truck,5,4,Clear,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2021,December,Friday,Serious,2,Cycle,2,1,Hazy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+Maharashtra,Nagpur,2020,June,Sunday,Fatal,4,Car,5,0,Clear,Damaged,Dark,Weekend,1,Moderate,No,1
+Delhi,New Delhi,2022,August,Tuesday,Minor,2,Car,5,5,Hazy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+West Bengal,Siliguri,2018,April,Wednesday,Serious,4,Cycle,10,1,Foggy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2021,April,Wednesday,Fatal,3,Pedestrian,3,2,Stormy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Lucknow,2022,May,Thursday,Serious,5,Truck,7,5,Foggy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2018,April,Monday,Minor,2,Auto-Rickshaw,1,1,Foggy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Rajasthan,Jaipur,2018,February,Monday,Serious,1,Pedestrian,4,5,Hazy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Tirupati,2021,January,Tuesday,Minor,1,Two-Wheeler,9,2,Stormy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2018,March,Sunday,Serious,2,Car,5,3,Foggy,Wet,Dark,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2021,August,Wednesday,Minor,3,Cycle,3,0,Clear,Dry,Daylight,Weekday,1,Moderate,No,1
+Maharashtra,Mumbai,2021,September,Tuesday,Serious,3,Bus,10,4,Clear,Dry,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2023,September,Friday,Fatal,5,Pedestrian,5,1,Rainy,Dry,Dusk,Weekday,1,Moderate,Yes,1
+Karnataka,Bangalore,2022,December,Tuesday,Minor,1,Truck,3,2,Clear,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Tirupati,2018,November,Monday,Fatal,1,Pedestrian,3,1,Hazy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2022,December,Friday,Serious,2,Bus,8,4,Rainy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2019,October,Monday,Minor,4,Truck,2,3,Stormy,Wet,Dark,Weekday,1,Minor,Yes,1
+Delhi,Rohini,2021,July,Friday,Serious,1,Truck,0,0,Hazy,Wet,Dark,Weekday,1,No Injury,No,1
+Tamil Nadu,Madurai,2021,December,Monday,Serious,1,Truck,10,3,Rainy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2022,January,Wednesday,Fatal,5,Two-Wheeler,1,4,Hazy,Wet,Dark,Weekday,1,Minor,Yes,1
+Rajasthan,Udaipur,2021,June,Sunday,Minor,1,Auto-Rickshaw,2,1,Clear,Under Construction,Dusk,Weekend,1,Minor,Yes,1
+Maharashtra,Nagpur,2021,July,Saturday,Minor,2,Cycle,0,4,Clear,Under Construction,Dusk,Weekend,1,No Injury,Yes,1
+Karnataka,Bangalore,2023,March,Tuesday,Fatal,3,Car,4,0,Hazy,Under Construction,Dusk,Weekday,1,Moderate,No,1
+Andhra Pradesh,Visakhapatnam,2019,February,Saturday,Serious,5,Two-Wheeler,7,4,Stormy,Dry,Dawn,Weekend,1,Severe,Yes,1
+Karnataka,Mangalore,2022,November,Tuesday,Minor,1,Bus,3,1,Hazy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2019,June,Friday,Minor,2,Car,5,0,Clear,Damaged,Dark,Weekday,1,Moderate,No,1
+Delhi,New Delhi,2021,February,Thursday,Minor,2,Two-Wheeler,7,0,Clear,Wet,Dusk,Weekday,1,Severe,No,1
+West Bengal,Kolkata,2023,May,Tuesday,Fatal,3,Car,8,5,Foggy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2020,March,Thursday,Minor,2,Truck,3,2,Hazy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+West Bengal,Durgapur,2023,January,Tuesday,Serious,4,Truck,5,0,Hazy,Dry,Dawn,Weekday,1,Moderate,No,1
+Tamil Nadu,Coimbatore,2022,November,Friday,Serious,3,Auto-Rickshaw,1,0,Foggy,Dry,Dawn,Weekday,1,Minor,No,1
+Uttar Pradesh,Varanasi,2020,August,Friday,Serious,3,Auto-Rickshaw,10,3,Stormy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2019,July,Monday,Serious,5,Car,7,5,Clear,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2022,November,Friday,Fatal,2,Truck,3,5,Clear,Damaged,Daylight,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2021,January,Friday,Minor,1,Pedestrian,4,4,Hazy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2023,January,Monday,Fatal,5,Car,7,5,Clear,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2020,June,Monday,Fatal,2,Pedestrian,0,2,Foggy,Under Construction,Dawn,Weekday,1,No Injury,Yes,1
+Gujarat,Surat,2018,July,Tuesday,Minor,2,Cycle,7,5,Stormy,Damaged,Dark,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2020,November,Thursday,Minor,1,Pedestrian,2,0,Stormy,Wet,Dark,Weekday,1,Minor,No,1
+Andhra Pradesh,Tirupati,2020,April,Saturday,Fatal,5,Bus,5,4,Rainy,Wet,Dusk,Weekend,1,Moderate,Yes,1
+Andhra Pradesh,Visakhapatnam,2023,September,Tuesday,Fatal,3,Car,2,1,Stormy,Wet,Dusk,Weekday,1,Minor,Yes,1
+Tamil Nadu,Coimbatore,2020,November,Monday,Fatal,4,Cycle,9,1,Foggy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Jaipur,2018,January,Saturday,Minor,1,Auto-Rickshaw,0,5,Clear,Under Construction,Dawn,Weekend,1,No Injury,Yes,1
+Uttar Pradesh,Lucknow,2021,December,Thursday,Fatal,3,Pedestrian,7,2,Foggy,Wet,Dark,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2019,October,Thursday,Fatal,1,Pedestrian,0,0,Hazy,Dry,Dark,Weekday,1,No Injury,No,1
+Tamil Nadu,Chennai,2019,May,Friday,Serious,5,Bus,9,4,Stormy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2018,March,Sunday,Serious,3,Car,5,3,Clear,Dry,Dark,Weekend,1,Moderate,Yes,1
+Delhi,New Delhi,2022,June,Sunday,Serious,3,Auto-Rickshaw,10,3,Clear,Wet,Dark,Weekend,1,Severe,Yes,1
+Delhi,New Delhi,2021,February,Friday,Serious,4,Cycle,4,4,Stormy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Vijayawada,2018,December,Thursday,Serious,5,Cycle,3,2,Stormy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2022,June,Thursday,Minor,5,Bus,8,5,Clear,Wet,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2022,February,Tuesday,Serious,1,Bus,9,5,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2021,May,Saturday,Minor,2,Two-Wheeler,5,0,Stormy,Wet,Daylight,Weekend,1,Moderate,No,1
+Rajasthan,Udaipur,2020,January,Thursday,Serious,2,Two-Wheeler,3,2,Rainy,Under Construction,Dawn,Weekday,1,Moderate,Yes,1
+Karnataka,Bangalore,2020,September,Monday,Fatal,2,Auto-Rickshaw,9,3,Foggy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2022,November,Thursday,Serious,5,Pedestrian,2,4,Stormy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Delhi,New Delhi,2019,June,Monday,Fatal,2,Auto-Rickshaw,4,1,Rainy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,Dwarka,2020,November,Thursday,Serious,4,Car,0,3,Foggy,Damaged,Dusk,Weekday,1,No Injury,Yes,1
+Gujarat,Surat,2022,August,Sunday,Serious,1,Truck,10,1,Rainy,Wet,Dusk,Weekend,1,Severe,Yes,1
+Karnataka,Mangalore,2023,July,Thursday,Minor,5,Auto-Rickshaw,9,3,Hazy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2022,October,Saturday,Serious,4,Truck,9,3,Hazy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Tamil Nadu,Chennai,2023,November,Sunday,Minor,5,Auto-Rickshaw,5,2,Rainy,Dry,Daylight,Weekend,1,Moderate,Yes,1
+Delhi,New Delhi,2021,February,Monday,Serious,2,Truck,0,3,Clear,Wet,Dawn,Weekday,1,No Injury,Yes,1
+Maharashtra,Mumbai,2020,October,Thursday,Fatal,3,Truck,1,3,Rainy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2022,December,Sunday,Fatal,5,Auto-Rickshaw,4,0,Hazy,Dry,Dusk,Weekend,1,Moderate,No,1
+Uttar Pradesh,Kanpur,2021,May,Wednesday,Fatal,4,Truck,3,5,Clear,Wet,Dark,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2021,March,Thursday,Minor,4,Pedestrian,10,2,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2023,December,Tuesday,Fatal,5,Auto-Rickshaw,7,1,Foggy,Dry,Dark,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2023,January,Thursday,Fatal,4,Pedestrian,2,4,Foggy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2023,September,Friday,Minor,4,Auto-Rickshaw,10,4,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2018,November,Friday,Fatal,3,Cycle,0,5,Stormy,Wet,Dark,Weekday,1,No Injury,Yes,1
+Delhi,Dwarka,2018,December,Tuesday,Fatal,2,Bus,10,5,Hazy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2021,April,Sunday,Serious,3,Car,0,3,Clear,Wet,Dusk,Weekend,1,No Injury,Yes,1
+Andhra Pradesh,Visakhapatnam,2018,August,Wednesday,Minor,5,Auto-Rickshaw,7,2,Hazy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2021,November,Wednesday,Fatal,4,Cycle,2,4,Clear,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Rajasthan,Jodhpur,2022,November,Monday,Minor,4,Truck,3,3,Hazy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Maharashtra,Nagpur,2019,August,Thursday,Fatal,4,Bus,3,3,Rainy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Chennai,2023,April,Friday,Fatal,3,Car,2,2,Stormy,Dry,Dark,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Varanasi,2018,May,Tuesday,Minor,3,Pedestrian,1,1,Hazy,Damaged,Dawn,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2023,October,Tuesday,Fatal,4,Cycle,0,2,Rainy,Damaged,Dawn,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Chennai,2018,January,Tuesday,Minor,4,Two-Wheeler,0,1,Foggy,Under Construction,Daylight,Weekday,1,No Injury,Yes,1
+Delhi,Rohini,2018,June,Wednesday,Fatal,1,Bus,0,0,Stormy,Damaged,Dawn,Weekday,1,No Injury,No,1
+West Bengal,Siliguri,2019,April,Sunday,Minor,2,Bus,10,1,Foggy,Under Construction,Dusk,Weekend,1,Severe,Yes,1
+Rajasthan,Udaipur,2023,April,Saturday,Serious,2,Bus,5,5,Stormy,Dry,Daylight,Weekend,1,Moderate,Yes,1
+Rajasthan,Jaipur,2018,August,Friday,Fatal,3,Pedestrian,3,1,Foggy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Rajasthan,Jaipur,2021,March,Sunday,Serious,5,Truck,9,2,Hazy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2018,August,Friday,Minor,4,Car,9,2,Foggy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2023,January,Monday,Minor,2,Two-Wheeler,8,0,Clear,Under Construction,Dark,Weekday,1,Severe,No,1
+Rajasthan,Jodhpur,2020,November,Thursday,Serious,5,Auto-Rickshaw,6,1,Stormy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2019,March,Friday,Serious,1,Auto-Rickshaw,8,5,Rainy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2020,January,Thursday,Fatal,3,Pedestrian,9,3,Rainy,Damaged,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2022,January,Thursday,Fatal,1,Pedestrian,2,1,Foggy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2021,December,Saturday,Serious,2,Bus,9,3,Hazy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Rajasthan,Udaipur,2020,October,Wednesday,Minor,5,Bus,7,2,Rainy,Wet,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2022,November,Saturday,Fatal,1,Cycle,7,5,Foggy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2020,March,Tuesday,Minor,3,Cycle,4,1,Foggy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Karnataka,Bangalore,2020,August,Friday,Minor,2,Truck,10,0,Rainy,Damaged,Dusk,Weekday,1,Severe,No,1
+Maharashtra,Mumbai,2022,June,Monday,Fatal,3,Cycle,2,1,Clear,Dry,Dark,Weekday,1,Minor,Yes,1
+Rajasthan,Jaipur,2021,February,Monday,Serious,3,Truck,8,5,Foggy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2021,September,Sunday,Fatal,1,Pedestrian,8,3,Stormy,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2020,February,Monday,Fatal,3,Two-Wheeler,1,1,Foggy,Dry,Dark,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2023,March,Thursday,Fatal,1,Pedestrian,0,1,Foggy,Damaged,Dusk,Weekday,1,No Injury,Yes,1
+Gujarat,Ahmedabad,2023,March,Wednesday,Fatal,1,Car,10,0,Hazy,Wet,Daylight,Weekday,1,Severe,No,1
+West Bengal,Siliguri,2018,July,Tuesday,Fatal,1,Two-Wheeler,10,0,Rainy,Dry,Dawn,Weekday,1,Severe,No,1
+Tamil Nadu,Coimbatore,2019,January,Friday,Serious,3,Cycle,10,1,Foggy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2018,July,Tuesday,Minor,4,Cycle,4,5,Hazy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2020,July,Tuesday,Fatal,2,Two-Wheeler,5,1,Stormy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Chennai,2020,April,Friday,Minor,1,Auto-Rickshaw,3,3,Foggy,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Kanpur,2021,December,Friday,Minor,2,Truck,5,1,Clear,Under Construction,Daylight,Weekday,1,Moderate,Yes,1
+Gujarat,Surat,2018,March,Friday,Minor,1,Two-Wheeler,4,0,Clear,Under Construction,Daylight,Weekday,1,Moderate,No,1
+Uttar Pradesh,Kanpur,2020,June,Wednesday,Serious,2,Bus,10,5,Rainy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Dwarka,2021,June,Sunday,Fatal,4,Two-Wheeler,9,5,Rainy,Under Construction,Dusk,Weekend,1,Severe,Yes,1
+Maharashtra,Mumbai,2019,October,Thursday,Serious,2,Cycle,3,5,Stormy,Under Construction,Dark,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2023,April,Tuesday,Fatal,4,Pedestrian,10,4,Stormy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2018,September,Friday,Serious,1,Pedestrian,0,4,Foggy,Damaged,Dark,Weekday,1,No Injury,Yes,1
+Maharashtra,Mumbai,2018,April,Friday,Fatal,5,Truck,1,2,Stormy,Dry,Dark,Weekday,1,Minor,Yes,1
+Tamil Nadu,Madurai,2018,May,Wednesday,Minor,3,Cycle,5,0,Foggy,Dry,Dawn,Weekday,1,Moderate,No,1
+Delhi,New Delhi,2018,September,Monday,Serious,5,Two-Wheeler,6,4,Foggy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2018,December,Friday,Fatal,3,Pedestrian,5,3,Hazy,Under Construction,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2020,January,Monday,Minor,2,Cycle,1,0,Stormy,Wet,Daylight,Weekday,1,Minor,No,1
+Rajasthan,Udaipur,2019,August,Sunday,Serious,5,Pedestrian,8,4,Hazy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Maharashtra,Mumbai,2018,June,Tuesday,Fatal,5,Bus,6,1,Clear,Dry,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2021,April,Friday,Fatal,1,Bus,10,4,Hazy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2021,January,Sunday,Fatal,3,Pedestrian,6,3,Hazy,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2021,September,Tuesday,Minor,3,Two-Wheeler,6,2,Rainy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2019,December,Saturday,Serious,5,Bus,9,0,Stormy,Under Construction,Dawn,Weekend,1,Severe,No,1
+Andhra Pradesh,Vijayawada,2023,October,Wednesday,Fatal,1,Car,10,3,Hazy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2022,June,Monday,Fatal,4,Car,1,3,Hazy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Rajasthan,Jodhpur,2022,December,Monday,Serious,1,Two-Wheeler,5,0,Rainy,Under Construction,Dark,Weekday,1,Moderate,No,1
+Uttar Pradesh,Kanpur,2021,June,Friday,Minor,1,Cycle,5,4,Clear,Wet,Dawn,Weekday,1,Moderate,Yes,1
+Karnataka,Mysore,2020,October,Saturday,Fatal,3,Truck,9,3,Hazy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,September,Saturday,Serious,5,Pedestrian,9,4,Foggy,Damaged,Daylight,Weekend,1,Severe,Yes,1
+Tamil Nadu,Madurai,2022,December,Tuesday,Minor,1,Car,6,4,Stormy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Karnataka,Bangalore,2022,July,Thursday,Fatal,1,Pedestrian,8,4,Rainy,Wet,Daylight,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2023,February,Wednesday,Serious,3,Cycle,6,1,Hazy,Dry,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2021,January,Monday,Fatal,1,Auto-Rickshaw,3,5,Clear,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2023,September,Monday,Fatal,5,Bus,9,3,Foggy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2022,April,Monday,Fatal,3,Truck,8,4,Clear,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2019,May,Friday,Fatal,3,Auto-Rickshaw,10,2,Foggy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Ahmedabad,2018,January,Thursday,Fatal,1,Bus,4,2,Rainy,Dry,Dusk,Weekday,1,Moderate,Yes,1
+Delhi,Rohini,2021,April,Saturday,Fatal,1,Bus,9,2,Foggy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Gujarat,Vadodara,2019,November,Friday,Minor,4,Cycle,5,1,Clear,Dry,Dusk,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2022,June,Monday,Fatal,1,Cycle,1,3,Hazy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2021,December,Sunday,Minor,4,Two-Wheeler,1,1,Stormy,Wet,Dusk,Weekend,1,Minor,Yes,1
+Andhra Pradesh,Vijayawada,2019,December,Thursday,Fatal,4,Truck,2,1,Stormy,Damaged,Dark,Weekday,1,Minor,Yes,1
+Tamil Nadu,Madurai,2018,February,Wednesday,Serious,2,Truck,4,2,Rainy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Maharashtra,Mumbai,2021,December,Monday,Serious,3,Two-Wheeler,10,1,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2022,May,Sunday,Fatal,1,Pedestrian,10,3,Hazy,Wet,Dawn,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2020,October,Saturday,Minor,3,Truck,5,0,Foggy,Under Construction,Dark,Weekend,1,Moderate,No,1
+Andhra Pradesh,Visakhapatnam,2022,October,Friday,Minor,4,Auto-Rickshaw,1,5,Rainy,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2020,February,Tuesday,Fatal,2,Truck,5,1,Rainy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+West Bengal,Kolkata,2020,January,Saturday,Serious,2,Truck,0,3,Hazy,Under Construction,Dawn,Weekend,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2023,July,Sunday,Serious,3,Truck,10,3,Hazy,Dry,Dark,Weekend,1,Severe,Yes,1
+Maharashtra,Nagpur,2023,July,Wednesday,Minor,3,Auto-Rickshaw,3,2,Rainy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Visakhapatnam,2018,December,Thursday,Minor,1,Car,2,5,Clear,Damaged,Dark,Weekday,1,Minor,Yes,1
+Karnataka,Mysore,2023,June,Friday,Fatal,4,Two-Wheeler,6,2,Clear,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2018,January,Saturday,Fatal,4,Bus,0,4,Foggy,Under Construction,Dawn,Weekend,1,No Injury,Yes,1
+Gujarat,Vadodara,2019,March,Monday,Fatal,1,Bus,10,1,Stormy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2020,October,Saturday,Fatal,2,Two-Wheeler,0,2,Stormy,Under Construction,Dawn,Weekend,1,No Injury,Yes,1
+Andhra Pradesh,Tirupati,2021,November,Saturday,Fatal,5,Two-Wheeler,1,5,Rainy,Wet,Dawn,Weekend,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2019,February,Monday,Minor,5,Pedestrian,3,4,Stormy,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2022,June,Friday,Minor,2,Two-Wheeler,10,3,Stormy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2023,July,Friday,Minor,3,Car,0,4,Clear,Dry,Dark,Weekday,1,No Injury,Yes,1
+Karnataka,Bangalore,2022,January,Tuesday,Fatal,1,Auto-Rickshaw,10,4,Stormy,Wet,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2019,November,Tuesday,Minor,1,Bus,9,2,Foggy,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2019,February,Monday,Minor,1,Cycle,9,0,Hazy,Under Construction,Dusk,Weekday,1,Severe,No,1
+Rajasthan,Jaipur,2022,February,Friday,Fatal,3,Truck,4,4,Hazy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Rajasthan,Jaipur,2018,May,Monday,Minor,4,Bus,1,4,Hazy,Wet,Daylight,Weekday,1,Minor,Yes,1
+Gujarat,Vadodara,2019,November,Sunday,Fatal,4,Cycle,7,0,Clear,Damaged,Daylight,Weekend,1,Severe,No,1
+Maharashtra,Mumbai,2019,July,Tuesday,Serious,2,Bus,10,5,Hazy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2020,May,Wednesday,Fatal,5,Bus,3,5,Stormy,Damaged,Daylight,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2022,December,Friday,Serious,2,Two-Wheeler,6,0,Stormy,Wet,Dark,Weekday,1,Severe,No,1
+West Bengal,Kolkata,2023,July,Wednesday,Fatal,4,Cycle,2,1,Hazy,Wet,Dusk,Weekday,1,Minor,Yes,1
+Maharashtra,Pune,2023,October,Wednesday,Minor,1,Two-Wheeler,5,5,Hazy,Wet,Dark,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2019,March,Sunday,Minor,1,Two-Wheeler,8,2,Stormy,Dry,Dusk,Weekend,1,Severe,Yes,1
+Karnataka,Mysore,2023,March,Thursday,Fatal,1,Bus,8,3,Hazy,Dry,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2021,November,Saturday,Fatal,5,Truck,9,1,Hazy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2021,January,Friday,Serious,2,Auto-Rickshaw,4,5,Rainy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+Gujarat,Vadodara,2023,September,Monday,Minor,1,Auto-Rickshaw,7,5,Clear,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Jodhpur,2019,January,Tuesday,Minor,5,Pedestrian,1,3,Clear,Dry,Daylight,Weekday,1,Minor,Yes,1
+Rajasthan,Jodhpur,2020,December,Monday,Minor,5,Two-Wheeler,2,4,Clear,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Kanpur,2022,February,Sunday,Serious,4,Truck,3,4,Foggy,Damaged,Dawn,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Chennai,2020,September,Wednesday,Fatal,3,Car,8,1,Hazy,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2020,July,Thursday,Fatal,3,Auto-Rickshaw,6,1,Foggy,Dry,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2021,February,Friday,Serious,5,Bus,9,2,Rainy,Wet,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2022,August,Wednesday,Serious,3,Auto-Rickshaw,7,2,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,November,Wednesday,Minor,4,Auto-Rickshaw,1,0,Rainy,Dry,Daylight,Weekday,1,Minor,No,1
+West Bengal,Siliguri,2023,April,Sunday,Serious,1,Bus,10,3,Rainy,Damaged,Dusk,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2021,April,Tuesday,Fatal,3,Two-Wheeler,4,0,Clear,Damaged,Dawn,Weekday,1,Moderate,No,1
+Tamil Nadu,Chennai,2023,August,Sunday,Fatal,5,Car,9,0,Foggy,Dry,Dawn,Weekend,1,Severe,No,1
+Gujarat,Vadodara,2019,February,Monday,Serious,5,Auto-Rickshaw,0,0,Hazy,Under Construction,Dusk,Weekday,1,No Injury,No,1
+Karnataka,Bangalore,2018,July,Monday,Fatal,1,Pedestrian,4,0,Clear,Dry,Dusk,Weekday,1,Moderate,No,1
+Rajasthan,Udaipur,2022,November,Friday,Fatal,3,Car,10,0,Hazy,Dry,Dusk,Weekday,1,Severe,No,1
+Andhra Pradesh,Visakhapatnam,2021,June,Saturday,Fatal,1,Auto-Rickshaw,6,2,Stormy,Under Construction,Dusk,Weekend,1,Severe,Yes,1
+Maharashtra,Nagpur,2022,March,Friday,Serious,1,Cycle,5,5,Foggy,Damaged,Daylight,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2019,December,Thursday,Minor,2,Auto-Rickshaw,2,2,Clear,Damaged,Dark,Weekday,1,Minor,Yes,1
+Karnataka,Mysore,2018,April,Sunday,Serious,3,Pedestrian,2,3,Stormy,Under Construction,Dusk,Weekend,1,Minor,Yes,1
+Maharashtra,Pune,2020,November,Wednesday,Serious,2,Two-Wheeler,6,3,Foggy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2022,February,Friday,Serious,1,Pedestrian,2,4,Hazy,Damaged,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Durgapur,2023,March,Wednesday,Fatal,2,Truck,10,4,Stormy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2021,April,Wednesday,Fatal,4,Two-Wheeler,7,4,Clear,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2023,December,Sunday,Serious,2,Car,3,0,Rainy,Damaged,Dawn,Weekend,1,Moderate,No,1
+Andhra Pradesh,Tirupati,2023,February,Saturday,Serious,2,Two-Wheeler,6,4,Foggy,Dry,Dusk,Weekend,1,Severe,Yes,1
+Tamil Nadu,Chennai,2022,June,Saturday,Serious,4,Pedestrian,2,0,Foggy,Dry,Daylight,Weekend,1,Minor,No,1
+Gujarat,Surat,2021,March,Sunday,Minor,5,Auto-Rickshaw,8,0,Clear,Damaged,Dark,Weekend,1,Severe,No,1
+Delhi,Dwarka,2018,April,Wednesday,Serious,3,Cycle,3,0,Stormy,Wet,Daylight,Weekday,1,Moderate,No,1
+Delhi,Dwarka,2019,September,Tuesday,Minor,3,Truck,7,5,Foggy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2018,January,Tuesday,Minor,2,Car,2,3,Hazy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+West Bengal,Siliguri,2019,December,Friday,Minor,4,Two-Wheeler,5,2,Stormy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2022,October,Monday,Fatal,3,Cycle,0,1,Stormy,Damaged,Dusk,Weekday,1,No Injury,Yes,1
+Karnataka,Mangalore,2020,March,Tuesday,Fatal,4,Truck,6,4,Rainy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Rajasthan,Jaipur,2019,July,Saturday,Fatal,1,Car,5,1,Stormy,Wet,Dark,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2018,April,Thursday,Fatal,2,Pedestrian,9,2,Rainy,Wet,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Jodhpur,2022,November,Sunday,Serious,4,Pedestrian,1,2,Clear,Under Construction,Dusk,Weekend,1,Minor,Yes,1
+Karnataka,Bangalore,2023,December,Saturday,Minor,4,Pedestrian,2,1,Foggy,Damaged,Daylight,Weekend,1,Minor,Yes,1
+Rajasthan,Jaipur,2020,December,Wednesday,Serious,5,Truck,2,0,Foggy,Wet,Dusk,Weekday,1,Minor,No,1
+Gujarat,Ahmedabad,2022,November,Friday,Serious,3,Two-Wheeler,7,3,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2022,April,Friday,Serious,2,Truck,6,5,Rainy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Karnataka,Mangalore,2020,February,Thursday,Serious,5,Truck,4,4,Stormy,Dry,Dusk,Weekday,1,Moderate,Yes,1
+Maharashtra,Pune,2022,February,Saturday,Serious,2,Two-Wheeler,6,4,Clear,Dry,Dawn,Weekend,1,Severe,Yes,1
+West Bengal,Kolkata,2021,June,Wednesday,Serious,3,Bus,3,1,Rainy,Under Construction,Dusk,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2022,February,Tuesday,Minor,2,Bus,2,1,Clear,Under Construction,Dusk,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2021,November,Thursday,Minor,1,Bus,4,4,Clear,Damaged,Dusk,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Tirupati,2021,June,Tuesday,Serious,3,Cycle,2,0,Clear,Under Construction,Dark,Weekday,1,Minor,No,1
+Karnataka,Mysore,2018,January,Saturday,Serious,1,Two-Wheeler,0,2,Rainy,Wet,Daylight,Weekend,1,No Injury,Yes,1
+Maharashtra,Mumbai,2022,July,Saturday,Serious,3,Car,10,3,Foggy,Dry,Dark,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Tirupati,2020,May,Friday,Serious,2,Truck,7,1,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2023,October,Friday,Fatal,2,Pedestrian,10,4,Clear,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2018,February,Monday,Serious,3,Two-Wheeler,5,1,Clear,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Madurai,2023,January,Sunday,Minor,4,Bus,9,4,Stormy,Dry,Daylight,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2022,September,Thursday,Minor,3,Two-Wheeler,8,3,Rainy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2018,September,Saturday,Minor,1,Auto-Rickshaw,10,4,Stormy,Dry,Dawn,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Kanpur,2018,November,Sunday,Serious,2,Two-Wheeler,9,2,Foggy,Dry,Dawn,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2018,October,Wednesday,Serious,4,Bus,6,3,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Coimbatore,2022,May,Saturday,Fatal,3,Car,8,4,Clear,Dry,Dark,Weekend,1,Severe,Yes,1
+Rajasthan,Jaipur,2019,June,Sunday,Fatal,1,Two-Wheeler,9,0,Rainy,Dry,Dawn,Weekend,1,Severe,No,1
+Karnataka,Mysore,2023,December,Monday,Fatal,1,Bus,7,5,Foggy,Damaged,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2019,June,Saturday,Minor,3,Pedestrian,8,1,Foggy,Dry,Dawn,Weekend,1,Severe,Yes,1
+Rajasthan,Jaipur,2020,June,Saturday,Minor,1,Auto-Rickshaw,4,0,Foggy,Damaged,Daylight,Weekend,1,Moderate,No,1
+Gujarat,Surat,2019,July,Friday,Fatal,5,Auto-Rickshaw,8,1,Clear,Wet,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Surat,2020,January,Friday,Minor,3,Two-Wheeler,9,5,Clear,Under Construction,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2018,November,Saturday,Fatal,2,Truck,1,5,Foggy,Wet,Dark,Weekend,1,Minor,Yes,1
+Rajasthan,Jaipur,2019,August,Saturday,Fatal,2,Auto-Rickshaw,4,0,Hazy,Damaged,Daylight,Weekend,1,Moderate,No,1
+Delhi,Dwarka,2023,July,Friday,Fatal,4,Two-Wheeler,3,1,Clear,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Delhi,New Delhi,2020,August,Saturday,Fatal,3,Car,9,2,Stormy,Wet,Dark,Weekend,1,Severe,Yes,1
+West Bengal,Kolkata,2020,February,Sunday,Minor,4,Pedestrian,0,2,Stormy,Dry,Daylight,Weekend,1,No Injury,Yes,1
+Rajasthan,Jaipur,2022,April,Sunday,Minor,3,Truck,6,5,Clear,Dry,Dark,Weekend,1,Severe,Yes,1
+West Bengal,Kolkata,2021,November,Saturday,Minor,2,Two-Wheeler,3,5,Stormy,Dry,Dawn,Weekend,1,Moderate,Yes,1
+Karnataka,Bangalore,2021,March,Tuesday,Serious,1,Two-Wheeler,9,2,Hazy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2018,March,Sunday,Serious,5,Two-Wheeler,0,4,Rainy,Damaged,Dark,Weekend,1,No Injury,Yes,1
+Gujarat,Vadodara,2022,January,Monday,Serious,5,Auto-Rickshaw,7,2,Hazy,Dry,Dusk,Weekday,1,Severe,Yes,1
+Karnataka,Mysore,2022,October,Thursday,Fatal,2,Cycle,0,1,Clear,Under Construction,Dawn,Weekday,1,No Injury,Yes,1
+Rajasthan,Jodhpur,2021,April,Wednesday,Fatal,1,Bus,9,4,Rainy,Dry,Daylight,Weekday,1,Severe,Yes,1
+Maharashtra,Pune,2020,March,Thursday,Serious,1,Truck,6,3,Hazy,Dry,Dark,Weekday,1,Severe,Yes,1
+Maharashtra,Nagpur,2020,June,Thursday,Serious,2,Auto-Rickshaw,6,4,Foggy,Wet,Dawn,Weekday,1,Severe,Yes,1
+West Bengal,Kolkata,2023,December,Monday,Fatal,5,Truck,10,5,Foggy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2019,December,Thursday,Fatal,4,Two-Wheeler,0,0,Stormy,Wet,Dusk,Weekday,1,No Injury,No,1
+Delhi,New Delhi,2019,July,Thursday,Minor,1,Auto-Rickshaw,6,4,Clear,Under Construction,Dawn,Weekday,1,Severe,Yes,1
+Maharashtra,Mumbai,2018,July,Sunday,Fatal,4,Car,10,1,Foggy,Dry,Dark,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Vijayawada,2023,August,Tuesday,Serious,4,Car,2,4,Hazy,Damaged,Dusk,Weekday,1,Minor,Yes,1
+West Bengal,Kolkata,2018,September,Wednesday,Minor,5,Two-Wheeler,1,5,Foggy,Dry,Daylight,Weekday,1,Minor,Yes,1
+Delhi,Rohini,2021,October,Sunday,Fatal,3,Truck,2,5,Rainy,Dry,Dawn,Weekend,1,Minor,Yes,1
+Andhra Pradesh,Tirupati,2019,July,Saturday,Minor,2,Auto-Rickshaw,3,0,Hazy,Dry,Dusk,Weekend,1,Moderate,No,1
+West Bengal,Kolkata,2019,July,Monday,Serious,1,Car,0,1,Rainy,Wet,Dawn,Weekday,1,No Injury,Yes,1
+West Bengal,Durgapur,2022,November,Friday,Serious,3,Cycle,3,2,Foggy,Wet,Dawn,Weekday,1,Moderate,Yes,1
+Karnataka,Mangalore,2022,May,Thursday,Minor,5,Cycle,10,4,Stormy,Dry,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2019,September,Sunday,Fatal,1,Two-Wheeler,10,0,Rainy,Wet,Dusk,Weekend,1,Severe,No,1
+Gujarat,Surat,2020,June,Sunday,Minor,4,Pedestrian,2,0,Foggy,Damaged,Daylight,Weekend,1,Minor,No,1
+Andhra Pradesh,Vijayawada,2020,June,Monday,Minor,2,Truck,9,4,Foggy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Varanasi,2019,October,Tuesday,Minor,3,Auto-Rickshaw,6,3,Stormy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2023,September,Thursday,Fatal,2,Auto-Rickshaw,4,5,Rainy,Wet,Dark,Weekday,1,Moderate,Yes,1
+West Bengal,Durgapur,2022,May,Saturday,Minor,3,Pedestrian,9,1,Clear,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2021,October,Friday,Serious,2,Truck,4,1,Clear,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Tamil Nadu,Coimbatore,2018,September,Friday,Minor,4,Cycle,3,4,Hazy,Damaged,Dawn,Weekday,1,Moderate,Yes,1
+Gujarat,Ahmedabad,2023,July,Saturday,Serious,2,Pedestrian,6,5,Stormy,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Gujarat,Vadodara,2021,May,Tuesday,Minor,2,Truck,8,4,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2023,February,Friday,Minor,5,Two-Wheeler,2,0,Stormy,Wet,Dusk,Weekday,1,Minor,No,1
+Karnataka,Mangalore,2018,March,Friday,Serious,5,Car,3,0,Hazy,Damaged,Dark,Weekday,1,Moderate,No,1
+West Bengal,Durgapur,2023,May,Tuesday,Minor,5,Car,1,1,Hazy,Damaged,Dawn,Weekday,1,Minor,Yes,1
+Karnataka,Mangalore,2023,November,Monday,Minor,4,Auto-Rickshaw,4,0,Hazy,Damaged,Dark,Weekday,1,Moderate,No,1
+West Bengal,Durgapur,2023,December,Monday,Minor,1,Pedestrian,1,1,Rainy,Under Construction,Dark,Weekday,1,Minor,Yes,1
+Uttar Pradesh,Lucknow,2019,March,Wednesday,Serious,5,Car,6,4,Hazy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2023,October,Monday,Minor,3,Auto-Rickshaw,4,1,Foggy,Damaged,Dark,Weekday,1,Moderate,Yes,1
+Karnataka,Mysore,2018,July,Tuesday,Minor,4,Pedestrian,8,3,Rainy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Uttar Pradesh,Lucknow,2020,June,Friday,Serious,2,Cycle,4,0,Clear,Damaged,Daylight,Weekday,1,Moderate,No,1
+Tamil Nadu,Chennai,2019,October,Wednesday,Fatal,2,Two-Wheeler,1,5,Rainy,Wet,Daylight,Weekday,1,Minor,Yes,1
+Delhi,New Delhi,2020,December,Thursday,Minor,2,Auto-Rickshaw,0,5,Hazy,Dry,Dark,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Madurai,2020,June,Thursday,Fatal,1,Bus,4,0,Stormy,Under Construction,Dark,Weekday,1,Moderate,No,1
+Gujarat,Ahmedabad,2020,June,Thursday,Fatal,5,Pedestrian,2,5,Foggy,Dry,Dusk,Weekday,1,Minor,Yes,1
+Delhi,New Delhi,2018,July,Saturday,Minor,5,Auto-Rickshaw,9,0,Clear,Under Construction,Dawn,Weekend,1,Severe,No,1
+Andhra Pradesh,Vijayawada,2022,November,Sunday,Serious,4,Car,2,1,Rainy,Wet,Dusk,Weekend,1,Minor,Yes,1
+Tamil Nadu,Chennai,2023,August,Sunday,Fatal,2,Bus,1,0,Rainy,Wet,Daylight,Weekend,1,Minor,No,1
+Delhi,Dwarka,2018,April,Saturday,Serious,3,Cycle,6,4,Rainy,Damaged,Dark,Weekend,1,Severe,Yes,1
+Maharashtra,Mumbai,2021,September,Saturday,Minor,4,Car,4,2,Rainy,Damaged,Dawn,Weekend,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2023,July,Monday,Minor,5,Pedestrian,9,1,Hazy,Wet,Dusk,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2022,August,Monday,Minor,5,Pedestrian,10,4,Stormy,Dry,Dawn,Weekday,1,Severe,Yes,1
+Gujarat,Vadodara,2019,August,Wednesday,Fatal,3,Auto-Rickshaw,7,1,Clear,Wet,Daylight,Weekday,1,Severe,Yes,1
+Rajasthan,Jodhpur,2023,September,Sunday,Minor,1,Car,8,3,Foggy,Under Construction,Daylight,Weekend,1,Severe,Yes,1
+Andhra Pradesh,Visakhapatnam,2023,November,Friday,Minor,1,Auto-Rickshaw,3,2,Clear,Damaged,Dark,Weekday,1,Moderate,Yes,1
+West Bengal,Durgapur,2021,February,Saturday,Fatal,5,Car,8,0,Clear,Wet,Daylight,Weekend,1,Severe,No,1
+Gujarat,Vadodara,2022,August,Saturday,Minor,4,Car,5,3,Clear,Under Construction,Daylight,Weekend,1,Moderate,Yes,1
+Tamil Nadu,Chennai,2018,October,Sunday,Serious,1,Car,1,1,Rainy,Damaged,Dawn,Weekend,1,Minor,Yes,1
+Maharashtra,Mumbai,2022,February,Sunday,Minor,1,Pedestrian,4,0,Rainy,Dry,Daylight,Weekend,1,Moderate,No,1
+Karnataka,Bangalore,2020,December,Thursday,Minor,5,Pedestrian,8,5,Stormy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Delhi,New Delhi,2020,January,Friday,Minor,1,Auto-Rickshaw,0,4,Hazy,Under Construction,Dawn,Weekday,1,No Injury,Yes,1
+Tamil Nadu,Coimbatore,2022,September,Monday,Minor,5,Bus,2,4,Hazy,Damaged,Dark,Weekday,1,Minor,Yes,1
+Andhra Pradesh,Vijayawada,2020,October,Sunday,Minor,5,Car,6,3,Stormy,Wet,Dusk,Weekend,1,Severe,Yes,1
+Karnataka,Mangalore,2023,July,Wednesday,Fatal,2,Pedestrian,5,3,Stormy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Rajasthan,Jodhpur,2023,June,Thursday,Fatal,2,Pedestrian,2,5,Rainy,Wet,Daylight,Weekday,1,Minor,Yes,1
+Delhi,Dwarka,2018,October,Saturday,Minor,3,Truck,6,2,Clear,Under Construction,Dark,Weekend,1,Severe,Yes,1
+Gujarat,Surat,2018,October,Thursday,Serious,3,Two-Wheeler,4,0,Stormy,Wet,Dawn,Weekday,1,Moderate,No,1
+West Bengal,Siliguri,2020,September,Friday,Serious,2,Car,10,3,Stormy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2019,February,Tuesday,Serious,4,Two-Wheeler,3,2,Stormy,Dry,Daylight,Weekday,1,Moderate,Yes,1
+Andhra Pradesh,Tirupati,2018,January,Thursday,Fatal,4,Car,2,3,Foggy,Dry,Dark,Weekday,1,Minor,Yes,1
+Delhi,New Delhi,2018,September,Monday,Fatal,4,Auto-Rickshaw,5,4,Hazy,Wet,Dusk,Weekday,1,Moderate,Yes,1
+West Bengal,Kolkata,2018,October,Wednesday,Serious,4,Truck,7,2,Clear,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+West Bengal,Siliguri,2018,October,Wednesday,Minor,2,Car,10,1,Stormy,Damaged,Dusk,Weekday,1,Severe,Yes,1
+Tamil Nadu,Madurai,2022,November,Tuesday,Minor,2,Cycle,8,2,Rainy,Under Construction,Dusk,Weekday,1,Severe,Yes,1
+Delhi,Rohini,2019,February,Tuesday,Minor,3,Car,3,5,Hazy,Wet,Daylight,Weekday,1,Moderate,Yes,1
+Uttar Pradesh,Varanasi,2023,February,Tuesday,Minor,4,Bus,9,1,Hazy,Wet,Dark,Weekday,1,Severe,Yes,1
+Rajasthan,Udaipur,2022,December,Thursday,Serious,1,Pedestrian,3,0,Stormy,Damaged,Dusk,Weekday,1,Moderate,No,1
+Gujarat,Ahmedabad,2019,March,Saturday,Serious,4,Auto-Rickshaw,4,3,Hazy,Wet,Dusk,Weekend,1,Moderate,Yes,1
+Delhi,Rohini,2023,January,Wednesday,Minor,2,Truck,6,4,Foggy,Damaged,Daylight,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2019,March,Thursday,Fatal,3,Truck,8,2,Rainy,Dry,Daylight,Weekday,1,Severe,Yes,1
+West Bengal,Durgapur,2019,May,Thursday,Fatal,3,Truck,5,4,Rainy,Dry,Dawn,Weekday,1,Moderate,Yes,1
+Rajasthan,Udaipur,2021,February,Wednesday,Serious,3,Truck,7,0,Foggy,Damaged,Daylight,Weekday,1,Severe,No,1
+Maharashtra,Nagpur,2022,January,Tuesday,Minor,2,Auto-Rickshaw,9,0,Hazy,Damaged,Dawn,Weekday,1,Severe,No,1
+Delhi,Dwarka,2023,February,Wednesday,Serious,3,Bus,9,5,Rainy,Under Construction,Dark,Weekday,1,Severe,Yes,1
+Tamil Nadu,Chennai,2021,January,Sunday,Minor,5,Truck,4,3,Foggy,Wet,Dark,Weekend,1,Moderate,Yes,1
